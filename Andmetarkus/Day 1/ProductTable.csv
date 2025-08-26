@@ -1,0 +1,5 @@
+ProductID,ProductName,Category,CostPrice,Manufacturer
+P001,Widget A,Electronics,10.0,Acme Corp
+P002,Widget B,Electronics,8.0,Beta Co
+P003,Gadget C,Accessories,30.0,Gamma Inc
+P004,Device D,Home Goods,20.0,Delta Ltd

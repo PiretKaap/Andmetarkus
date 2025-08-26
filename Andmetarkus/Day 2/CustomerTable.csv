@@ -1,0 +1,5 @@
+CustomerID,CustomerName,Industry,Country,RegionID
+C001,Alice Ltd,Retail,USA,R01
+C002,Bob Inc,Wholesale,Canada,R02
+C003,Charlie LLC,E-commerce,USA,R01
+C004,Delta Group,Retail,UK,R03
