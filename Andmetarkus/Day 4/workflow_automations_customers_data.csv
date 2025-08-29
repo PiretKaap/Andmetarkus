@@ -1,0 +1,17 @@
+Count of Became paying customer after trial?;Column Labels;;;;;;;;;;
+Row Labels;No;Yes;Grand Total;;;;;;;;
+No;1680;713;2393;;;;;;;;
+Yes;468;1139;1607;;;;;;;;
+Grand Total;2148;1852;4000;;;;;;;;
+;;;;;;;;;;;
+Row Labels;No;Yes;Grand Total;;Tegelik tulemus ;;;;;;
+No;1680;713;2393;;;;;;;;
+Yes;468;1139;1607;;;;;;;;
+Grand Total;2148;1852;4000;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+Row Labels;No;Yes;;;Oodatav tulemus;;(ridade summa * tulpade summa/ vastajate arv);;;;
+No;1285,041;1107,959;;;;;;;;;
+Yes;862,959;744,041;;;;;;;;;
+;;;;;;;;;;;
+;Hii-ruut-stastistiku statistiline olulisus (p-value) ;;;;; 0,0000000   ;p<0.01;Tulemus ei olene juhusest.;;;
