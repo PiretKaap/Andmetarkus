@@ -1,0 +1,14 @@
+t-Test: Two-Sample Assuming Equal Variances;;;
+;;;
+;uus;vana;
+Mean;4,689255009;4,99722572;
+Variance;0,231177223;0,242159304;
+Observations;300;300;
+Pooled Variance;0,236668264;;
+Hypothesized Mean Difference;0;;
+df;598;;
+t Stat;-7,75327225;;
+P(T<=t) one-tail; 0,00000000000002   ;;Väärtus < 0.01 ehk uue tarkvaraversiooni tarneaeg on statistiliselt oluliselt seotud tarkvara versiooniga.
+t Critical one-tail;1,647405712;;
+P(T<=t) two-tail;3,87183E-14;;
+t Critical two-tail;1,963938898;;

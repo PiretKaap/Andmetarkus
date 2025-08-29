@@ -1,0 +1,401 @@
+Employee ID,First Name,Last Name,Department,Job Title,Hire Date,Performance Rating,Employment Status,Email,Salary EUR,Leave Date,Leave Reason
+56088854,Kevin,Perkins,IT,IT Manager,2021-02-20,Satisfactory,Active,riveraerika@hernandez.com,4418.95,,
+59994640,Gary,Robinson,Compliance,Compliance Manager,2014-01-24,Excellent,Active,huffmanjohn@lewis-morgan.com,2209.97,,
+93142663,Adam,Carlson,Investment Banking,Associate,2019-06-08,Excellent,On Leave,jenkinsjoseph@evans.org,1039.25,,
+39710055,Pamela,Brown,Investment Banking,Analyst,2013-02-13,Excellent,Active,qgarrett@shepherd-campbell.com,3005.19,,
+54420168,Samuel,Morales,Compliance,Compliance Manager,2018-08-08,Excellent,On Leave,hendersonjason@holland.com,1119.89,,
+49565751,Nicholas,Oliver,Retail Banking,Personal Banker,2011-08-16,Needs Improvement,Resigned,tina63@fox.com,3027.73,2011-12-05,Involuntary
+13136604,Courtney,Mays,Investment Banking,Associate,2014-10-21,Satisfactory,Resigned,richardsonlaura@brown-young.com,2389.49,2016-07-22,Involuntary
+82061111,Carol,Jennings,Retail Banking,Branch Manager,2017-10-13,Good,Resigned,patricia59@daugherty.info,4868.19,2021-09-11,Voluntary
+25310238,Joseph,James,Finance,Finance Manager,2020-06-25,Excellent,On Leave,jeffcooper@warren-levine.com,2741.08,,
+52390333,Michael,Coleman,Compliance,Compliance Officer,2020-03-13,Satisfactory,On Leave,sanchezclifford@johnston.info,3995.46,,
+50366088,Joseph,Brown,HR,HR Manager,2023-01-29,Good,On Leave,ucarpenter@williams.info,3251.48,,
+60538918,James,Johnson,Corporate Banking,Account Manager,2017-12-03,Satisfactory,On Leave,holmeselijah@shaffer-rowe.com,3617.68,,
+11767824,Deanna,Foster,Operations,Operations Manager,2016-06-26,Good,Active,bryanttimothy@jones-church.info,1027.73,,
+66553328,Terry,Newton,HR,HR Assistant,2013-05-22,Satisfactory,Active,qpeters@webb.com,4228.91,,
+21119712,Jennifer,Carr,Retail Banking,Personal Banker,2023-08-02,Excellent,Resigned,john68@lozano.biz,3065.53,2024-08-31,Voluntary
+8908483,Stacy,Johnson,Investment Banking,Analyst,2023-01-31,Excellent,On Leave,wagnercarolyn@olson.com,2364.52,,
+18324693,Phillip,Ruiz,Finance,Finance Manager,2019-12-02,Excellent,Resigned,cainfrancisco@campbell.com,3523.23,2020-11-14,Voluntary
+58635148,Paul,Miles,Operations,Process Improvement Lead,2012-06-02,Satisfactory,On Leave,ocarney@yates.com,3033.47,,
+36674749,Jeremiah,Goodman,IT,IT Support,2012-11-15,Excellent,Active,michellecurtis@osborn-ross.com,1947.41,,
+27210499,Peter,Watkins,Compliance,Compliance Manager,2014-02-08,Satisfactory,On Leave,sreyes@tyler-livingston.com,5459.16,,
+36228812,Brent,Taylor,HR,Recruiter,2020-04-10,Needs Improvement,Resigned,abbottrobert@ortega.com,2320.72,2024-10-20,Voluntary
+76102868,Colleen,Riley,HR,Recruiter,2012-11-11,Excellent,Resigned,amandasummers@dunlap.com,3132.31,2015-06-14,Involuntary
+42694052,Bob,Bush,Risk Management,Risk Analyst,2013-06-24,Good,Resigned,samanthasteele@shields.com,4778.88,2014-06-12,Involuntary
+79298315,Ashley,Miller,Corporate Banking,Relationship Manager,2012-01-01,Good,Resigned,jacksonmelissa@wallace-carter.org,3896.48,2012-03-08,Involuntary
+16039285,Robin,Koch,IT,IT Support,2012-11-10,Needs Improvement,Active,randall40@fischer.org,4376.53,,
+62987813,Dennis,Perez,Finance,Financial Analyst,2023-11-29,Excellent,Resigned,alfredbrown@butler.com,3650.63,2024-05-20,Involuntary
+30763579,Bryan,Wall,Corporate Banking,Account Manager,2018-07-19,Good,Resigned,tiffany07@bauer.com,3623.57,2021-03-04,Involuntary
+47486973,Kristin,Cook,Risk Management,Risk Analyst,2024-09-12,Good,Resigned,nicole45@brown.org,4536.58,2026-12-04,Voluntary
+78988262,Linda,James,Corporate Banking,Relationship Manager,2015-02-12,Excellent,Resigned,garcianicholas@grant-rogers.info,5457.04,2017-09-01,Voluntary
+38928116,Logan,Hall,Finance,Finance Manager,2017-03-02,Excellent,Resigned,blloyd@owen.com,4872.35,2018-04-01,Voluntary
+5520985,Nicole,Wong,IT,IT Manager,2013-10-29,Excellent,Resigned,jerry05@hubbard.com,3419.28,2017-04-07,Involuntary
+92866164,Brooke,Medina,Operations,Process Improvement Lead,2017-07-09,Satisfactory,Resigned,pbeck@ball.com,3170.51,2022-03-17,Involuntary
+61375154,Sarah,Harris,Investment Banking,Associate,2011-06-09,Needs Improvement,Resigned,alan87@richardson-ellis.biz,2809.22,2016-02-12,Voluntary
+51882860,Kelsey,Figueroa,Corporate Banking,Account Manager,2011-11-11,Good,Active,michael13@lucas-york.biz,4696.4,,
+50309771,Brian,Thomas,IT,Systems Analyst,2019-06-24,Good,Active,umiles@wells-weber.info,1662.75,,
+42400080,Tara,Ward,Finance,Accountant,2023-01-28,Satisfactory,Resigned,davispamela@ford.com,3841.35,2025-06-23,Involuntary
+35275565,Jamie,Mcbride,Investment Banking,Analyst,2014-06-01,Needs Improvement,Resigned,jamieharvey@larson.com,1479.3,2014-08-01,Involuntary
+87215182,Tracy,Sanchez,Risk Management,Risk Analyst,2016-05-12,Excellent,Resigned,uwhitaker@palmer.com,4606.42,2017-10-18,Voluntary
+76481222,Tiffany,Martinez,Risk Management,Risk Analyst,2024-12-22,Excellent,Resigned,reedruben@miller-vasquez.com,2427.16,2027-08-15,Voluntary
+2796857,Max,Malone,Retail Banking,Personal Banker,2025-03-23,Needs Improvement,Resigned,joshuafitzgerald@king-russell.info,4525.55,2029-10-19,Involuntary
+78063051,Crystal,Cross,HR,HR Manager,2019-01-04,Needs Improvement,On Leave,sandy76@roman-boyd.org,2816.21,,
+76276774,Jeremy,Rodriguez,Operations,Operations Manager,2012-11-06,Excellent,On Leave,sanchezclaire@cochran-meyers.com,2530.6,,
+32907193,Shawn,Hunter,IT,IT Manager,2018-08-08,Satisfactory,Active,bernardandrew@kaiser.biz,4118.57,,
+11782957,Tammie,Johnson,Risk Management,Risk Manager,2020-06-17,Excellent,On Leave,osbornebriana@stevenson.net,4157.4,,
+92571242,Julia,Chan,IT,Systems Analyst,2022-05-18,Satisfactory,On Leave,donaldgarcia@byrd.net,2319.2,,
+99821968,Bryan,Thompson,Compliance,Compliance Manager,2011-07-14,Excellent,On Leave,qbanks@pineda.net,2200.33,,
+79958936,Timothy,Mcgee,IT,IT Support,2015-04-05,Satisfactory,On Leave,dlopez@flores-frazier.com,3775.84,,
+93599320,Andrew,Irwin,Investment Banking,Associate,2012-08-12,Good,Active,rhodessandra@daniels.biz,3025.61,,
+53809124,Benjamin,Wilson,Retail Banking,Personal Banker,2022-01-10,Good,On Leave,kmanning@mills-ellison.org,2872.37,,
+55771559,Ariana,Davidson,Retail Banking,Personal Banker,2013-04-17,Needs Improvement,Active,yvonne43@peterson.biz,3976.01,,
+86051255,Laura,Smith,Retail Banking,Teller,2019-10-26,Excellent,Resigned,hkhan@fitzpatrick-lewis.com,4547.46,2022-02-07,Involuntary
+93008631,Peter,Whitaker,HR,HR Assistant,2023-12-07,Excellent,Resigned,smithheidi@hill-gonzalez.biz,1131.39,2024-12-25,Voluntary
+72583760,Charles,Morgan,Investment Banking,Associate,2019-07-05,Needs Improvement,Resigned,carrjuan@reyes-swanson.com,3255.0,2020-09-24,Involuntary
+2703398,Keith,Walker,Corporate Banking,Relationship Manager,2016-05-11,Good,Resigned,rogersjeff@brown-johnson.com,4106.55,2017-12-26,Involuntary
+53780058,Melissa,Cross,Operations,Process Improvement Lead,2022-02-04,Good,On Leave,sheri66@lee.net,1300.49,,
+34012598,Kimberly,Jackson,Risk Management,Risk Analyst,2011-09-27,Excellent,On Leave,kellyjensen@graham.com,1930.42,,
+69836671,Kenneth,Perkins,IT,IT Support,2025-08-07,Needs Improvement,On Leave,richardsondaniel@forbes.com,1000.51,,
+40428758,Connie,Joseph,Operations,Process Improvement Lead,2022-10-27,Needs Improvement,On Leave,david56@brooks-harvey.info,2592.56,,
+17895514,Sarah,Neal,HR,HR Assistant,2014-12-28,Excellent,Active,cherylwilliams@liu.com,1674.6,,
+50936700,Ricky,Cortez,Risk Management,Chief Risk Officer,2013-01-24,Needs Improvement,On Leave,ryanporter@stephenson.org,1107.9,,
+34475270,Ann,Lopez,Finance,Finance Manager,2018-08-25,Good,Active,maria36@johnson-cole.com,3856.56,,
+27495056,Louis,Lawson,Corporate Banking,Account Manager,2022-06-25,Needs Improvement,Resigned,wagnerariel@bryant.info,1856.3,2026-06-08,Voluntary
+86476683,Steven,Olson,Corporate Banking,Account Manager,2018-10-31,Good,Resigned,williamsbruce@campbell-burns.com,5422.24,2020-05-11,Voluntary
+84450111,Crystal,Brown,Retail Banking,Personal Banker,2013-10-11,Satisfactory,On Leave,tonyataylor@butler.biz,2934.68,,
+69396670,Tyrone,Turner,Compliance,Compliance Manager,2022-08-29,Excellent,Active,kmendez@perez.net,2455.83,,
+66817949,Jerry,Moran,Operations,Operations Analyst,2024-02-25,Satisfactory,Active,pnelson@hall-davenport.com,3596.16,,
+72249130,Rachel,Williamson,Retail Banking,Branch Manager,2023-09-04,Needs Improvement,Resigned,wallshannon@drake-ashley.info,1875.79,2024-09-23,Voluntary
+59619246,Heather,Larson,Compliance,AML Analyst,2018-06-22,Needs Improvement,Resigned,robert10@mcmahon-mason.com,1112.25,2023-01-29,Voluntary
+17620055,Judith,Bradley,Finance,Financial Analyst,2012-10-01,Good,Resigned,reedjoseph@roman.biz,2224.39,2017-03-08,Voluntary
+65279175,Justin,Miller,Operations,Operations Manager,2012-02-26,Needs Improvement,Resigned,fwatkins@campos.com,1068.35,2014-04-06,Involuntary
+50806157,Barbara,Torres,Investment Banking,Analyst,2011-12-01,Excellent,Resigned,william87@lee-thompson.net,3468.45,2016-10-19,Voluntary
+53919144,Teresa,Lane,Compliance,Compliance Officer,2012-02-29,Good,Active,danielkirby@douglas.com,5417.26,,
+77011527,Carrie,Campbell,Compliance,Compliance Officer,2019-03-27,Excellent,Resigned,traceywells@white-stanley.info,4564.01,2020-09-02,Involuntary
+10299081,Lisa,Rodriguez,Finance,Financial Analyst,2015-06-13,Needs Improvement,Active,garyobrien@lucero-gonzalez.biz,3859.15,,
+87558685,Gregory,Montgomery,HR,Recruiter,2012-06-18,Satisfactory,Resigned,amanda19@martin.net,5308.11,2012-12-16,Involuntary
+78714984,Lauren,Brock,Compliance,AML Analyst,2011-07-16,Satisfactory,Resigned,teresa12@cortez-scott.com,4868.01,2012-03-21,Voluntary
+76536229,Nicholas,Norris,IT,Systems Analyst,2011-06-06,Satisfactory,Active,ibrown@osborne.info,5003.33,,
+12958900,Luke,Martinez,Risk Management,Risk Analyst,2019-08-11,Excellent,Active,vjohnson@sanchez.info,1049.16,,
+23193666,Barbara,Campbell,HR,HR Manager,2018-03-15,Excellent,On Leave,melinda39@benson.org,2092.01,,
+88273341,Latoya,Brown,Finance,Accountant,2022-01-12,Satisfactory,On Leave,kgutierrez@hill-miller.com,3926.72,,
+35291428,Bobby,Hopkins,Operations,Process Improvement Lead,2010-09-08,Good,Active,jacobsondaniel@ramos-townsend.com,4513.74,,
+99736644,Paul,Roberts,Risk Management,Risk Manager,2017-12-14,Good,On Leave,jacqueline94@hopkins.net,2467.98,,
+2409313,Nathaniel,Richards,IT,IT Manager,2020-08-31,Excellent,Active,allenedward@martin.com,3454.2,,
+10540787,Daniel,Fisher,Investment Banking,Analyst,2019-01-20,Excellent,Active,ingramerik@brown.com,1523.04,,
+4602859,David,Cook,HR,HR Assistant,2025-02-10,Excellent,On Leave,johnsonjon@randall.com,3993.36,,
+79860987,Susan,Davis,HR,HR Assistant,2019-04-10,Needs Improvement,Active,caseybrent@smith-harris.biz,4559.16,,
+95380056,Wayne,Soto,Risk Management,Risk Manager,2019-06-13,Satisfactory,Active,hannah86@hernandez.com,2284.3,,
+10277195,Margaret,Mendoza,Risk Management,Chief Risk Officer,2023-11-18,Good,Active,alexiscopeland@ibarra-smith.biz,1877.29,,
+31512848,Phillip,Davis,Finance,Accountant,2023-01-17,Satisfactory,On Leave,mcclurelaura@lucas.biz,3634.06,,
+95824871,Garrett,Wilcox,Investment Banking,Associate,2024-01-24,Satisfactory,On Leave,dhaynes@wallace.biz,2411.75,,
+73985709,Travis,Cooley,Operations,Process Improvement Lead,2017-07-28,Needs Improvement,Active,gcarter@moore.com,3204.12,,
+49299694,Erik,Davis,Compliance,AML Analyst,2010-10-14,Excellent,Resigned,fjohnson@dorsey.net,2926.33,2011-01-27,Involuntary
+93789905,Jeffrey,Ford,Risk Management,Risk Analyst,2015-03-27,Good,Resigned,taylorkeith@bell.biz,1211.15,2016-06-21,Voluntary
+32234534,Erin,Townsend,Risk Management,Chief Risk Officer,2014-01-30,Good,On Leave,timothyharris@moore.com,3052.41,,
+2289526,Lydia,Stout,Operations,Operations Analyst,2014-07-14,Good,Resigned,yodermiguel@riley.com,3423.63,2016-03-10,Voluntary
+47862722,John,Allen,Operations,Operations Manager,2017-05-20,Excellent,Active,hilljacob@stuart.biz,2867.66,,
+60863393,Jeffrey,Bowers,Finance,Finance Manager,2023-08-16,Needs Improvement,Resigned,batestyler@price.com,1622.01,2028-03-14,Involuntary
+88052649,Edward,Liu,Compliance,AML Analyst,2014-04-13,Good,Active,qweiss@ramirez.net,4231.04,,
+38305832,Robert,Smith,Risk Management,Risk Manager,2010-12-09,Needs Improvement,Resigned,donaldrandall@le-kim.biz,3997.28,2015-05-04,Voluntary
+11947684,Heather,Williams,Finance,Finance Manager,2015-03-14,Excellent,Resigned,paulgonzalez@monroe-davis.biz,5242.3,2018-08-25,Voluntary
+54029804,Christopher,Taylor,Corporate Banking,Account Manager,2022-07-08,Good,Active,timothy08@beard.biz,1251.27,,
+54865273,Andrea,Diaz,Risk Management,Risk Manager,2021-08-31,Good,Resigned,jennifernixon@fox.com,4534.39,2025-09-09,Involuntary
+16194373,Angela,Williams,Operations,Operations Analyst,2018-10-16,Satisfactory,Active,nicole33@jackson.com,1046.89,,
+54343887,Lisa,Rodriguez,Finance,Accountant,2024-09-16,Satisfactory,Resigned,bridgeslori@castro-holden.com,2307.98,2029-05-10,Involuntary
+79580649,Rebecca,Hudson,Finance,Accountant,2017-06-11,Excellent,Resigned,ohiggins@parks.com,3126.11,2021-12-15,Voluntary
+31600361,Robert,Richmond,HR,HR Assistant,2024-04-26,Satisfactory,On Leave,jacksonjeffrey@harris-munoz.com,2399.46,,
+2512532,Brittany,Benitez,HR,Recruiter,2022-08-31,Good,Resigned,jonathan01@solis.info,5436.42,2027-02-13,Voluntary
+71042183,Gary,Baker,Finance,Accountant,2012-05-14,Needs Improvement,Resigned,gonzalesrachel@lopez.com,1155.84,2014-04-06,Voluntary
+98716180,Rebecca,Rivera,Operations,Process Improvement Lead,2023-02-20,Needs Improvement,Active,sherry65@ramirez.com,1045.69,,
+40247847,Joanne,Vasquez,IT,IT Manager,2013-07-11,Needs Improvement,Resigned,spearsmelanie@mills.net,3908.68,2016-07-09,Voluntary
+63068221,Joshua,Bailey,Finance,Finance Manager,2022-06-23,Satisfactory,Active,rrivers@rogers.com,4982.37,,
+84476654,Karen,Petty,Retail Banking,Personal Banker,2021-03-22,Satisfactory,On Leave,morganjohnson@werner-sampson.com,3590.95,,
+12606788,David,Petersen,Investment Banking,Analyst,2013-03-15,Satisfactory,On Leave,kaylalong@gates.com,5097.22,,
+38304057,Dorothy,Williamson,Finance,Financial Analyst,2015-09-05,Satisfactory,On Leave,ericksonerin@brown.com,4184.87,,
+55221429,Katherine,Munoz,Finance,Finance Manager,2011-03-20,Satisfactory,Active,trevorserrano@merritt-wells.com,5182.36,,
+5255627,Angela,Newman,Finance,Finance Manager,2019-12-26,Good,Active,jcarlson@garrett.com,2754.82,,
+3945063,Teresa,Vargas,Compliance,Compliance Manager,2012-04-02,Needs Improvement,On Leave,jessicawyatt@cochran.com,3758.77,,
+45324031,Christine,Merritt,Compliance,AML Analyst,2020-03-08,Needs Improvement,On Leave,apark@gonzalez.com,2462.16,,
+8418708,Megan,Collins,Risk Management,Chief Risk Officer,2015-04-16,Satisfactory,Active,claytonjames@salazar.com,1464.38,,
+62455350,Matthew,Smith,Compliance,Compliance Manager,2016-12-23,Good,Resigned,brownzachary@huffman-gonzalez.biz,3671.46,2020-08-28,Involuntary
+57794822,Andrew,English,IT,IT Manager,2012-09-24,Satisfactory,Active,brownemily@gonzalez-williams.info,2335.49,,
+37691837,Walter,Thomas,Retail Banking,Branch Manager,2011-05-15,Needs Improvement,Active,cgray@hoffman.com,3834.98,,
+93987905,Jacqueline,Crosby,Retail Banking,Teller,2015-10-20,Satisfactory,On Leave,lindaduncan@bailey.com,2188.08,,
+59872474,Jessica,Sanchez,Finance,Accountant,2023-12-07,Excellent,On Leave,crystalbarrett@baird.com,2221.97,,
+75104238,Jason,Henry,Risk Management,Risk Manager,2019-08-26,Good,Active,ktownsend@brown.info,1881.57,,
+73146094,Timothy,Miller,Operations,Operations Manager,2024-03-06,Satisfactory,Resigned,grussell@allen-gutierrez.com,1811.47,2028-05-22,Voluntary
+86105873,Pamela,Kelly,Operations,Process Improvement Lead,2012-03-26,Satisfactory,Active,castanedakimberly@anderson.info,4137.31,,
+87454109,Tina,Rose,Finance,Finance Manager,2019-11-14,Satisfactory,Active,mcox@anderson.net,4048.25,,
+3970867,Julie,Dodson,Corporate Banking,Account Manager,2025-04-22,Good,Resigned,lguerrero@armstrong.com,1818.49,2029-11-10,Voluntary
+30901001,Gregory,Solis,HR,HR Assistant,2014-05-03,Needs Improvement,On Leave,gpeters@gibson.org,2796.73,,
+14644290,Patricia,Chaney,Risk Management,Risk Analyst,2012-12-22,Satisfactory,Active,brownjessica@nelson-wood.com,3529.31,,
+30260795,Kathy,Burns,Investment Banking,Associate,2018-08-22,Excellent,On Leave,smithronald@rice-gay.com,3683.54,,
+13883218,Bruce,Jones,Finance,Accountant,2021-02-04,Satisfactory,Resigned,wjohnston@carroll.com,5379.13,2023-05-07,Voluntary
+69547294,William,Hudson,IT,Systems Analyst,2018-06-23,Needs Improvement,On Leave,kathleennicholson@reed-chan.com,1777.88,,
+30896390,Linda,Williams,Risk Management,Risk Manager,2019-09-25,Satisfactory,Active,alisonkerr@bradshaw-price.info,3170.66,,
+62624480,Craig,Raymond,Investment Banking,Analyst,2014-03-27,Excellent,Resigned,hannah53@holt.net,2277.75,2018-07-30,Voluntary
+62804325,Michael,Kelly,Finance,Accountant,2022-06-25,Good,Active,fmontgomery@wood.com,4158.08,,
+75933074,Brittany,Little,Finance,Financial Analyst,2014-03-04,Needs Improvement,Resigned,kellysingleton@boyd.net,4143.07,2015-09-30,Involuntary
+6376901,Phillip,Patrick,IT,IT Manager,2017-03-22,Needs Improvement,Resigned,shelia34@todd.com,2377.44,2021-10-07,Voluntary
+11964070,Steven,Bennett,Operations,Operations Manager,2018-05-16,Satisfactory,On Leave,timothy83@baldwin-hernandez.info,2545.24,,
+86884549,Steven,Torres,Corporate Banking,Relationship Manager,2010-11-24,Excellent,Resigned,goodmanashley@kirk.com,1244.68,2011-11-24,Involuntary
+3466186,Jennifer,Young,Finance,Finance Manager,2011-11-19,Good,Resigned,murraysandra@burns.com,5366.49,2014-11-22,Involuntary
+66675587,Derek,Mccoy,HR,HR Assistant,2013-04-01,Needs Improvement,Active,houstonamanda@turner-schmidt.com,2487.71,,
+55261777,Jessica,Harmon,Finance,Finance Manager,2018-09-06,Excellent,Active,modonnell@sharp-arnold.com,2065.61,,
+72390108,Henry,Lane,Operations,Operations Manager,2023-06-05,Excellent,Active,emilykaiser@cline.com,1553.12,,
+83475146,Chad,Sanford,Investment Banking,Analyst,2021-01-12,Needs Improvement,Resigned,jeffreygarcia@torres.info,5169.56,2023-03-10,Involuntary
+70369021,Alicia,Miller,Investment Banking,Vice President,2022-08-23,Good,Active,brandonfloyd@joyce.net,3551.08,,
+38289095,Alexandria,Salinas,Investment Banking,Associate,2022-12-24,Needs Improvement,Resigned,ipeters@nelson-rich.biz,3152.89,2023-12-19,Voluntary
+21731884,Jeffrey,Cox,Finance,Finance Manager,2021-07-05,Good,On Leave,jacqueline87@henry.org,2822.02,,
+45671821,Amanda,Rocha,Operations,Operations Analyst,2012-05-22,Satisfactory,Active,coxlisa@bailey.net,4412.72,,
+17640985,Courtney,Robinson,Risk Management,Risk Manager,2017-05-03,Excellent,Resigned,cynthia54@ramirez.net,1420.69,2017-10-31,Voluntary
+59418900,Amy,Griffith,Risk Management,Chief Risk Officer,2013-05-24,Excellent,On Leave,acoleman@howard.com,4729.26,,
+95476353,Rebecca,Potter,HR,Recruiter,2012-03-24,Good,Active,smithphilip@graves.org,3195.97,,
+88421292,Danielle,Harris,Risk Management,Risk Manager,2013-06-08,Satisfactory,Resigned,zlittle@white.com,4780.8,2015-09-27,Voluntary
+28815198,Crystal,Palmer,Operations,Operations Manager,2022-12-12,Needs Improvement,Active,jason49@clark-ibarra.org,3723.62,,
+83638350,Michael,Solomon,Compliance,Compliance Officer,2012-02-20,Excellent,Resigned,smithwayne@myers.info,1696.94,2014-02-07,Involuntary
+93839679,Albert,Banks,Investment Banking,Analyst,2016-05-27,Excellent,Active,xstevens@robles-juarez.biz,4773.04,,
+28889571,Jerry,Sanders,Operations,Process Improvement Lead,2011-01-19,Good,On Leave,wayne43@nelson.org,2718.31,,
+95228167,Cynthia,Diaz,Risk Management,Risk Analyst,2016-03-11,Good,On Leave,johnstout@hill.biz,3338.43,,
+31516662,Tonya,Stewart,Operations,Operations Manager,2015-07-02,Satisfactory,Active,jesus97@sanchez-griffin.com,4342.97,,
+77720177,Aaron,Carroll,HR,HR Manager,2011-06-12,Good,On Leave,daniellepeck@baker.com,1793.3,,
+50677580,Charles,Parker,HR,HR Manager,2016-04-19,Needs Improvement,Resigned,xsimon@hammond.org,5215.9,2017-01-09,Voluntary
+40904528,Christopher,Gomez,Corporate Banking,Credit Analyst,2021-11-02,Good,Active,qandersen@clark.com,1689.23,,
+53100993,Monica,Norman,HR,HR Assistant,2022-11-21,Satisfactory,Active,sherriholmes@stanley.info,5069.68,,
+48335560,Brian,Lindsey,Retail Banking,Personal Banker,2016-10-26,Satisfactory,Resigned,xharris@porter.net,1371.16,2020-04-19,Voluntary
+13693718,William,Diaz,Investment Banking,Analyst,2013-03-29,Satisfactory,On Leave,paulaguirre@park-bush.org,1288.45,,
+79897082,Timothy,Adams,HR,HR Manager,2022-07-20,Good,On Leave,arivera@torres.net,4078.01,,
+77017376,Michael,Mcgee,HR,HR Manager,2013-01-18,Excellent,On Leave,jonathon06@oneal.com,3347.13,,
+90388972,Timothy,Martinez,Operations,Process Improvement Lead,2011-12-25,Good,On Leave,martinchristopher@thompson.net,3648.43,,
+30848788,Joshua,Ramirez,HR,Recruiter,2017-06-29,Satisfactory,Resigned,ijones@adkins.com,4668.02,2019-01-28,Involuntary
+23653818,Monique,Ortiz,Finance,Financial Analyst,2017-03-29,Satisfactory,Resigned,jclark@johnson.biz,4459.53,2017-12-08,Voluntary
+6004767,Janet,Frye,Investment Banking,Vice President,2024-01-30,Excellent,Active,meganbrown@newman-gibbs.net,4245.84,,
+24136433,Angela,Martin,Investment Banking,Associate,2021-02-28,Excellent,On Leave,dominguezanthony@maynard.net,4593.36,,
+77700605,Jamie,Woods,Operations,Operations Analyst,2021-07-02,Excellent,Active,jason78@rodriguez.com,3479.42,,
+58368206,Victoria,Rodriguez,IT,Systems Analyst,2021-02-22,Excellent,Resigned,griffinkevin@atkins.info,3144.78,2023-04-20,Involuntary
+90277856,Alan,Miller,HR,HR Manager,2013-06-11,Good,On Leave,lsoto@miller.info,4777.93,,
+29795192,Jacob,Henderson,Corporate Banking,Relationship Manager,2021-07-30,Satisfactory,Resigned,vdickson@coleman.com,4814.91,2024-06-30,Involuntary
+64745626,Ebony,Sherman,Compliance,AML Analyst,2017-02-02,Satisfactory,Active,simpsoncrystal@anderson.com,4463.78,,
+27121092,James,Johnson,Investment Banking,Associate,2021-01-03,Excellent,Resigned,jamesmorales@thompson-boyer.com,1734.54,2025-11-02,Voluntary
+12313389,Christopher,Kerr,Corporate Banking,Relationship Manager,2020-05-10,Needs Improvement,Resigned,samantharice@bowers.com,4974.5,2021-08-18,Involuntary
+10549766,Bridget,Campbell,Operations,Operations Manager,2020-11-28,Good,Active,brandywoods@martinez-smith.com,1968.83,,
+32457032,Jennifer,Riley,Corporate Banking,Relationship Manager,2025-05-13,Excellent,On Leave,james41@casey.net,5250.32,,
+17249645,Bryce,Frazier,Investment Banking,Analyst,2012-12-21,Excellent,Active,odomrenee@williams.com,1342.08,,
+66526018,Brittany,Weiss,Investment Banking,Analyst,2024-04-06,Good,On Leave,harrisstacey@proctor.biz,3794.6,,
+38919077,Christian,Smith,Retail Banking,Personal Banker,2018-06-05,Good,Active,ywright@norton.com,1269.36,,
+13083373,Gina,Osborne,Investment Banking,Vice President,2021-07-25,Needs Improvement,Active,ggarcia@murray.biz,1007.57,,
+89003916,Jacqueline,Jackson,IT,Systems Analyst,2014-08-31,Excellent,Active,ojones@hill.info,2029.99,,
+46711472,William,Long,Corporate Banking,Relationship Manager,2016-10-16,Satisfactory,Active,dmitchell@miller-hudson.biz,3376.94,,
+3584408,Vincent,Page,Operations,Operations Manager,2014-10-27,Satisfactory,Active,smithkelly@gomez-harris.com,4926.01,,
+16962996,Nancy,Flores,Corporate Banking,Relationship Manager,2016-02-05,Good,Resigned,stewartdiana@patterson.com,1050.95,2019-04-28,Voluntary
+64509709,Daniel,House,Corporate Banking,Account Manager,2020-02-07,Satisfactory,Active,uolson@smith-chapman.org,4303.69,,
+6559915,Hannah,Gilbert,Retail Banking,Personal Banker,2024-12-09,Needs Improvement,Resigned,josemoyer@cruz.com,4726.75,2025-04-17,Voluntary
+14944659,Debra,Wells,Retail Banking,Teller,2024-03-21,Good,Active,rmartin@thomas.net,3070.91,,
+9961944,Jennifer,Sanchez,IT,IT Manager,2017-09-25,Good,Active,robert45@harvey.com,2373.97,,
+61736245,Linda,Brown,Compliance,Compliance Officer,2012-11-12,Good,On Leave,johnjackson@hall.com,3197.5,,
+74990016,Alice,Sullivan,Risk Management,Risk Manager,2018-03-14,Excellent,Active,brownlauren@wright-brown.info,3228.91,,
+9790414,Matthew,Gregory,Finance,Accountant,2024-05-23,Needs Improvement,On Leave,sanchezjacqueline@williams-sullivan.com,4647.46,,
+19090368,Rachael,Patterson,Compliance,Compliance Officer,2013-06-27,Satisfactory,Resigned,carterannette@hoffman-salazar.info,1281.91,2015-05-07,Involuntary
+82601836,Sharon,Knight,Finance,Accountant,2024-11-01,Needs Improvement,Active,stephenrobinson@johnston-clark.com,5452.61,,
+43827046,Aimee,Thompson,Compliance,Compliance Manager,2018-03-16,Needs Improvement,On Leave,gordonkrystal@macdonald.com,1185.81,,
+25687460,Rachel,Rodriguez,HR,HR Manager,2020-09-29,Satisfactory,On Leave,vwright@steele.com,3327.31,,
+16616332,James,Williams,IT,IT Manager,2010-10-13,Satisfactory,On Leave,medinamichael@calhoun.com,4479.43,,
+2933634,Brittney,Trujillo,Compliance,Compliance Manager,2017-02-01,Excellent,On Leave,perezmary@martin-pierce.com,2074.18,,
+76456473,Anthony,Edwards,Finance,Finance Manager,2017-05-11,Excellent,Active,whitepamela@williams.com,4493.9,,
+53502254,Samuel,Baldwin,Risk Management,Risk Manager,2020-07-01,Excellent,On Leave,marybailey@kaiser-payne.com,3360.38,,
+89336144,Michelle,Walters,IT,Systems Analyst,2015-08-01,Needs Improvement,On Leave,torresgabriel@thompson-garcia.com,1224.48,,
+42632191,Lance,Williams,Finance,Finance Manager,2016-05-11,Excellent,On Leave,hayesjulia@carlson-brown.org,2658.08,,
+98339907,John,Mendez,Corporate Banking,Relationship Manager,2017-09-09,Needs Improvement,On Leave,toddsharp@hobbs-lloyd.com,4519.78,,
+11633709,Gabriella,Jones,IT,IT Support,2014-02-05,Needs Improvement,Resigned,bcasey@brown.info,3952.84,2017-07-14,Involuntary
+36294343,Christopher,Cabrera,HR,Recruiter,2011-11-22,Satisfactory,Resigned,burtontamara@harrison.net,4972.8,2013-02-19,Voluntary
+17843539,John,Allen,Retail Banking,Branch Manager,2020-05-03,Excellent,On Leave,danielgreene@underwood-humphrey.net,3721.89,,
+1017373,Emily,Garcia,Retail Banking,Personal Banker,2021-10-30,Satisfactory,Active,josephware@martin.org,4529.38,,
+21505478,Helen,Lee,IT,IT Support,2015-12-26,Satisfactory,On Leave,robert11@campbell.com,3100.63,,
+65187623,Elizabeth,Bishop,Compliance,AML Analyst,2015-04-24,Needs Improvement,Active,jeffrey60@jones-henderson.biz,3173.48,,
+72742631,Thomas,Owens,Operations,Process Improvement Lead,2025-07-30,Excellent,Resigned,michael83@randall.com,3590.13,2026-08-05,Involuntary
+65624821,Robert,Mcgrath,Operations,Operations Manager,2011-02-08,Good,Resigned,atkinsonchristopher@jones-byrd.info,1003.44,2011-03-27,Voluntary
+80054511,Anna,Moss,Finance,Accountant,2020-11-24,Excellent,Resigned,watsonnicole@wolf-spencer.com,3992.38,2023-08-25,Involuntary
+91352002,Jasmine,Walker,Risk Management,Chief Risk Officer,2021-12-14,Satisfactory,Active,michelle05@gonzalez.net,2822.18,,
+12745678,Ray,Hill,HR,HR Manager,2022-12-20,Good,Resigned,zimmermanbrian@tucker.com,4034.97,2027-12-13,Voluntary
+70269901,Caitlyn,Joseph,HR,HR Manager,2017-06-09,Needs Improvement,Resigned,aaronwilliams@hurst-robinson.com,1124.79,2020-12-21,Involuntary
+22284495,Timothy,Boyle,Retail Banking,Teller,2017-09-18,Needs Improvement,Active,christopherbrooks@martin.com,1321.25,,
+2625713,William,Gonzalez,Corporate Banking,Account Manager,2012-03-15,Good,On Leave,jason59@yang.biz,5096.32,,
+67628193,William,Park,Compliance,AML Analyst,2012-04-11,Excellent,On Leave,mariecarroll@adams.com,1810.94,,
+29172931,Emily,Smith,Compliance,Compliance Officer,2024-08-14,Needs Improvement,On Leave,lparsons@hall.org,2268.04,,
+49959086,Jeremy,Gonzalez,Risk Management,Chief Risk Officer,2020-12-06,Needs Improvement,On Leave,silvajared@ross-walsh.com,1339.84,,
+57936185,Daniel,Martin,HR,Recruiter,2012-09-16,Good,Active,dtate@fisher.biz,3120.36,,
+97833680,Elizabeth,Garcia,Risk Management,Chief Risk Officer,2011-03-10,Good,Active,ortizjoshua@price.com,3027.76,,
+25728071,Anthony,Murphy,Finance,Finance Manager,2022-10-12,Satisfactory,Resigned,cjackson@bowman-atkinson.com,1128.27,2023-10-13,Involuntary
+75198909,Kathleen,Young,IT,IT Manager,2020-05-01,Good,Active,tyrone68@williams.net,2876.84,,
+98658213,Brenda,Powers,Risk Management,Risk Analyst,2025-04-21,Needs Improvement,Resigned,brandonwalker@garza.net,5348.28,2026-08-05,Voluntary
+67043453,Christopher,Hansen,Operations,Process Improvement Lead,2015-04-24,Needs Improvement,Resigned,uperez@thompson.com,2390.76,2019-10-19,Involuntary
+42518686,Anthony,Avila,Operations,Process Improvement Lead,2024-08-24,Good,On Leave,millerjames@castillo.com,5117.53,,
+1524024,Cynthia,Hart,Finance,Accountant,2016-05-31,Good,On Leave,sara69@chavez.org,4640.38,,
+24496292,John,Diaz,Investment Banking,Vice President,2021-04-29,Needs Improvement,Active,zlopez@white.info,1581.39,,
+83832437,Andrew,Mcgrath,Compliance,Compliance Manager,2021-08-31,Excellent,Active,pedro07@holmes.info,4277.1,,
+37614089,Roberto,Davis,HR,HR Assistant,2017-01-18,Excellent,Active,charles69@norton.com,2925.8,,
+4619758,Lisa,Clayton,HR,HR Assistant,2012-05-28,Excellent,Active,ylloyd@munoz-farley.com,3628.2,,
+1705577,Courtney,Mcneil,IT,IT Manager,2013-07-02,Good,Active,johnsonwilliam@ruiz.com,2638.75,,
+83023910,Frances,Johnson,Investment Banking,Associate,2017-02-08,Excellent,Active,taylorjavier@downs.com,3952.01,,
+80872849,Diane,Guzman,IT,IT Manager,2022-02-24,Excellent,Active,johnsonmichelle@pearson-miller.org,4034.34,,
+87756326,Paul,Wilkinson,Investment Banking,Analyst,2020-08-03,Good,Resigned,njacobs@brown.info,4847.13,2024-07-25,Voluntary
+6220495,Andrew,Howard,Compliance,AML Analyst,2019-10-31,Good,Active,hernandezanna@johnson-taylor.com,5453.95,,
+95420073,John,Mccarthy,Compliance,Compliance Manager,2020-05-23,Good,Active,thomasmichael@west.com,3272.06,,
+3795484,Adrian,Schmidt,Investment Banking,Vice President,2021-05-30,Satisfactory,On Leave,lisagonzalez@perry-boyd.info,1397.05,,
+39121509,Blake,Crawford,Finance,Accountant,2023-06-05,Needs Improvement,Resigned,steven65@meyer.com,2616.63,2024-01-06,Voluntary
+26049182,Robert,Fisher,IT,IT Manager,2011-12-30,Needs Improvement,On Leave,peterbarnes@davis.com,2141.26,,
+29418602,Richard,Lewis,Operations,Operations Analyst,2014-10-24,Excellent,Active,bparks@ramos.com,3679.18,,
+4756668,Michele,Fisher,IT,Systems Analyst,2024-09-13,Excellent,On Leave,riosjose@lewis.info,2406.98,,
+19884950,Brent,Bowen,Operations,Process Improvement Lead,2021-05-06,Needs Improvement,On Leave,dsheppard@cruz-butler.com,1662.0,,
+12267040,Alexander,Gray,HR,Recruiter,2012-10-31,Excellent,On Leave,phillipsalinas@ray.com,2252.35,,
+87644159,Leslie,Martinez,Finance,Accountant,2019-04-07,Good,Active,rangelcorey@brown-nelson.info,1647.55,,
+87732955,Tammy,Thompson,Operations,Operations Manager,2012-10-22,Needs Improvement,On Leave,sarahsmith@hartman-pratt.org,2997.66,,
+79855754,Adrian,Evans,Finance,Financial Analyst,2013-08-30,Needs Improvement,Active,wilsonrichard@golden-bates.com,1701.7,,
+97829911,Sonya,Maldonado,Corporate Banking,Credit Analyst,2014-08-05,Excellent,Resigned,kenneth28@jenkins.net,4753.68,2018-01-02,Involuntary
+3367797,William,Lowe,Corporate Banking,Account Manager,2024-09-20,Good,On Leave,stewartmary@carlson.com,1691.19,,
+72258835,Victoria,Bailey,Retail Banking,Personal Banker,2017-10-30,Excellent,Active,gnavarro@dunn-thompson.info,4033.83,,
+51574680,Robert,Cabrera,Finance,Finance Manager,2020-11-14,Excellent,Active,rhooper@cunningham-moody.com,2018.45,,
+75032784,Mary,Simpson,Operations,Process Improvement Lead,2025-02-20,Good,Resigned,smithkatherine@jones-hoffman.info,1367.58,2026-05-12,Voluntary
+45858048,Christina,Gordon,Operations,Operations Manager,2014-08-30,Satisfactory,Active,mark60@castillo.com,3386.17,,
+38161841,Mary,Smith,Investment Banking,Associate,2015-03-08,Excellent,Resigned,ywilliams@daniel-green.com,4059.92,2017-02-16,Involuntary
+99167837,Stacy,Sanford,HR,Recruiter,2019-01-30,Satisfactory,On Leave,charles58@walter.org,2432.85,,
+49972696,Eric,Gill,Retail Banking,Personal Banker,2024-06-27,Satisfactory,Active,harrisstephanie@whitney.com,3875.17,,
+63688924,Matthew,Mcbride,HR,HR Manager,2018-01-27,Excellent,Resigned,garciapatricia@colon-murphy.com,5316.49,2022-03-04,Voluntary
+91333544,Ethan,Patel,HR,HR Manager,2021-09-12,Satisfactory,Active,vmayer@howard-rodriguez.org,5125.5,,
+44737122,Tracy,Jones,Corporate Banking,Account Manager,2019-10-01,Needs Improvement,Active,gkelly@reilly.net,3642.47,,
+64943190,Kara,Powell,Compliance,Compliance Manager,2023-01-02,Satisfactory,On Leave,qclark@freeman.biz,1069.68,,
+40841410,Michael,Moore,HR,HR Assistant,2016-03-02,Needs Improvement,On Leave,perryjon@mathews-flores.info,5075.92,,
+28299103,Jared,Johnson,Investment Banking,Associate,2018-04-28,Excellent,Active,ballardmary@hernandez-huynh.com,4827.51,,
+19600376,Misty,Love,Compliance,Compliance Officer,2020-08-10,Good,Resigned,rodriguezsabrina@dougherty.net,4869.7,2022-05-31,Involuntary
+2240671,Crystal,Spencer,Retail Banking,Teller,2014-10-27,Satisfactory,Resigned,starkchristina@landry.biz,5274.59,2017-07-31,Involuntary
+72131626,Daniel,Stewart,Finance,Accountant,2018-01-06,Needs Improvement,On Leave,bernardlaura@carey-pittman.biz,2825.47,,
+69640636,Gregory,Mcmahon,Compliance,Compliance Officer,2022-11-23,Needs Improvement,Resigned,hfuentes@elliott-martinez.com,1395.41,2027-07-30,Voluntary
+67758371,Lisa,Guerrero,Investment Banking,Associate,2020-08-19,Needs Improvement,On Leave,clarkcheryl@jones.com,4491.2,,
+71712086,George,Meyer,IT,IT Support,2025-08-01,Good,Active,vargasapril@ingram.com,5303.16,,
+17407687,Linda,Lawson,Finance,Financial Analyst,2024-04-02,Good,Active,sandra94@robles-choi.biz,4420.0,,
+74334476,Colleen,Adams,Retail Banking,Personal Banker,2017-07-22,Excellent,Resigned,valeriemorales@maddox.com,2554.5,2021-09-30,Voluntary
+10224083,Julia,Turner,Risk Management,Risk Manager,2020-11-26,Good,Resigned,arocha@blevins.com,2676.06,2021-11-23,Involuntary
+32858860,Kevin,Hamilton,Retail Banking,Branch Manager,2014-09-15,Satisfactory,On Leave,pperez@dalton.com,5232.04,,
+33379456,Laura,Thompson,Investment Banking,Associate,2012-08-20,Needs Improvement,On Leave,kimberlybell@kline-morrison.net,1056.22,,
+92577602,Zachary,Reyes,Operations,Operations Manager,2020-09-27,Satisfactory,On Leave,reginalee@smith-baker.net,1409.99,,
+76316463,Paul,Vargas,HR,HR Manager,2023-07-13,Needs Improvement,Active,ujacobs@pace.org,1071.87,,
+33606781,Jade,Roberts,Risk Management,Risk Manager,2025-08-02,Good,Active,rreyes@romero.net,1188.6,,
+86342049,Nancy,Santana,Corporate Banking,Account Manager,2018-11-18,Good,Active,amullins@jones.com,4947.8,,
+42108511,Russell,White,Corporate Banking,Account Manager,2021-11-22,Excellent,On Leave,hendersonshelby@york.info,5309.14,,
+35362395,Alexander,Fowler,Investment Banking,Vice President,2015-03-15,Needs Improvement,Resigned,victoriagomez@griffin-wilson.com,3892.25,2020-03-10,Voluntary
+43444649,Dawn,Martin,IT,Systems Analyst,2012-12-04,Excellent,Active,freemanthomas@jones-olson.org,3271.3,,
+89178058,Nicole,Glenn,Retail Banking,Personal Banker,2010-10-25,Satisfactory,Active,smithjustin@blackburn.com,5454.5,,
+6096526,Bobby,Martinez,Retail Banking,Branch Manager,2020-05-17,Good,On Leave,matthew32@stewart.org,3830.8,,
+55589369,Gregory,Chung,Investment Banking,Analyst,2013-10-10,Satisfactory,Active,elliottdavid@perez-perez.info,1241.54,,
+12359769,Veronica,Stokes,Finance,Finance Manager,2011-03-06,Needs Improvement,Resigned,laurenjones@jones.com,2094.01,2016-02-19,Involuntary
+18417715,Brian,Velasquez,Retail Banking,Teller,2022-12-23,Good,Active,pyoung@burgess-bishop.org,5244.08,,
+44575427,Erin,Schmitt,Finance,Finance Manager,2022-04-21,Needs Improvement,Resigned,andre44@davis.biz,4765.73,2026-10-06,Involuntary
+5042500,Laurie,Livingston,Retail Banking,Teller,2010-08-16,Satisfactory,On Leave,meltonjacob@ortega-nguyen.com,3104.64,,
+4711087,Charles,Harmon,Compliance,Compliance Officer,2025-07-01,Satisfactory,Resigned,qalvarez@bradley-dunn.info,4881.55,2027-11-03,Involuntary
+41758878,Jason,Lewis,Corporate Banking,Relationship Manager,2010-10-16,Satisfactory,On Leave,kayla96@watson.com,2400.67,,
+74444434,Corey,Baker,Investment Banking,Analyst,2023-08-12,Needs Improvement,Resigned,riverajames@calderon-davis.com,2655.62,2027-06-01,Voluntary
+52132452,Kirk,Cervantes,Investment Banking,Vice President,2017-12-09,Good,On Leave,robertmiller@hart.com,5004.44,,
+19448626,Colin,Larson,Risk Management,Risk Manager,2013-12-28,Good,Active,michaelolson@beard-lambert.biz,3749.87,,
+47896802,Emily,Mitchell,Investment Banking,Analyst,2017-06-18,Needs Improvement,Active,jeremy86@potter.info,2851.62,,
+13315306,Joshua,Bradley,Compliance,Compliance Officer,2018-01-30,Excellent,Resigned,kimberly06@hart-stout.com,3681.98,2018-12-06,Voluntary
+69215636,Patrick,Fisher,Corporate Banking,Relationship Manager,2015-10-17,Needs Improvement,Resigned,figueroastephanie@cole.com,1829.95,2016-04-27,Voluntary
+7693496,Sarah,Marquez,Compliance,AML Analyst,2024-05-22,Good,On Leave,shawnwells@cooper.com,4693.46,,
+17200592,Kevin,Olsen,Risk Management,Risk Manager,2017-04-24,Satisfactory,Active,kelly43@johnson.com,2260.49,,
+64895376,Stephanie,Brown,Operations,Process Improvement Lead,2014-10-05,Excellent,On Leave,patriciaandrews@howard.com,3429.55,,
+10552964,Michael,Fitzgerald,Corporate Banking,Relationship Manager,2016-07-30,Good,On Leave,jmiller@patrick.com,4101.08,,
+62772365,Stephanie,Woods,Compliance,Compliance Manager,2023-06-22,Good,Resigned,angela10@bryan-davidson.biz,2011.37,2028-01-22,Voluntary
+82597764,David,Curtis,IT,Systems Analyst,2023-03-27,Satisfactory,Resigned,morganariana@padilla.com,4735.51,2026-07-17,Voluntary
+73072287,Heather,Forbes,IT,IT Manager,2025-07-04,Good,Resigned,matthew90@watson.com,4191.78,2026-03-26,Voluntary
+39010339,Steven,Moore,HR,HR Assistant,2019-11-18,Satisfactory,On Leave,lisaberry@anderson.net,1116.82,,
+70161137,Donna,Mcneil,Compliance,Compliance Manager,2014-11-03,Excellent,On Leave,nparsons@zuniga.com,5223.47,,
+43333813,Daniel,Silva,HR,Recruiter,2022-06-13,Needs Improvement,On Leave,gbruce@hayes.com,3159.44,,
+2232300,Christopher,Richardson,Corporate Banking,Credit Analyst,2018-02-04,Excellent,On Leave,richardwebb@bryan.com,1959.79,,
+80022954,Joseph,Harris,Retail Banking,Branch Manager,2011-05-11,Excellent,Active,petersenwilliam@king.com,4373.22,,
+94581461,Kristine,Mata,Risk Management,Chief Risk Officer,2012-01-12,Excellent,Active,eosborn@avila.com,1185.68,,
+49709094,Juan,Thomas,Finance,Financial Analyst,2018-06-08,Satisfactory,Resigned,figueroamichael@powers.com,3554.11,2023-02-12,Voluntary
+25352733,Krista,Lowe,IT,IT Support,2013-02-13,Good,On Leave,taylor85@simon.biz,3890.02,,
+83456343,Steven,Carter,Investment Banking,Associate,2019-07-10,Good,Resigned,kelly32@duncan.com,1269.95,2022-02-01,Voluntary
+31625531,Kimberly,Matthews,Retail Banking,Branch Manager,2012-11-04,Good,Active,bryantchristine@zimmerman.com,4373.66,,
+63696455,David,Chavez,Operations,Process Improvement Lead,2020-08-19,Excellent,On Leave,ichandler@jackson.net,4242.18,,
+51700843,Linda,Larson,HR,HR Manager,2014-08-22,Satisfactory,On Leave,natalieestrada@fox.com,4392.99,,
+33834030,Sierra,Williams,Finance,Financial Analyst,2012-10-05,Good,Resigned,lutztaylor@hickman.com,2998.87,2017-09-17,Involuntary
+60236876,Derek,Thomas,Operations,Operations Manager,2017-12-09,Good,On Leave,harriskenneth@james.org,4334.18,,
+24524537,Charles,Miller,Operations,Operations Analyst,2016-12-01,Satisfactory,On Leave,sergiobarker@mccarty.org,2470.84,,
+58700013,Jack,Park,Retail Banking,Personal Banker,2015-02-26,Needs Improvement,On Leave,cynthiaolson@rhodes.info,1662.5,,
+35674955,Robert,Fisher,Risk Management,Risk Manager,2019-10-31,Satisfactory,On Leave,ydean@cooke-hoover.com,4141.7,,
+69007194,Timothy,Bowen,Investment Banking,Vice President,2011-09-25,Good,Resigned,sanfordnicholas@hall-mahoney.com,1537.85,2012-04-14,Involuntary
+39983428,Mary,Cook,Investment Banking,Analyst,2015-04-19,Excellent,Resigned,browncarlos@allen.com,2199.76,2016-03-04,Involuntary
+18950403,Sarah,Martinez,Operations,Operations Manager,2021-02-07,Needs Improvement,On Leave,zachary52@dyer.com,1365.64,,
+11836049,Ronnie,Anderson,Operations,Operations Analyst,2012-09-19,Needs Improvement,Resigned,vazquezkelli@brown.org,2011.86,2017-04-10,Voluntary
+30000926,Tracy,Luna,Investment Banking,Vice President,2010-12-24,Satisfactory,On Leave,btaylor@smith.info,1572.39,,
+34464328,Anna,Roberson,Retail Banking,Teller,2022-10-14,Satisfactory,Resigned,aguirrejose@franco.biz,3762.23,2023-06-03,Voluntary
+28629528,Kimberly,Alvarez,Operations,Operations Analyst,2010-09-15,Excellent,On Leave,jnielsen@wells-lyons.com,4312.6,,
+18638240,Donna,Abbott,Risk Management,Risk Manager,2022-06-14,Satisfactory,Active,sramirez@vincent.com,2151.0,,
+678582,Christopher,Ward,HR,HR Manager,2017-05-05,Good,On Leave,angela26@mason.net,5024.42,,
+34096284,Michael,Lawrence,HR,Recruiter,2014-08-15,Excellent,Resigned,yurhonda@porter-booth.com,5162.71,2016-02-24,Voluntary
+69279195,Ricardo,Aguilar,HR,Recruiter,2013-06-03,Good,On Leave,nicholasjimenez@phillips.com,4224.3,,
+39060754,Dana,Weaver,Investment Banking,Vice President,2010-10-15,Excellent,Resigned,hugheschad@mayo.net,1475.5,2011-03-07,Voluntary
+45511431,Annette,Conway,Investment Banking,Vice President,2017-10-30,Needs Improvement,On Leave,tedwards@moore.com,4973.53,,
+79391887,Michael,Jackson,Finance,Finance Manager,2019-05-10,Good,On Leave,xcontreras@coleman-goodman.com,2483.14,,
+64419312,Deborah,Dominguez,Risk Management,Risk Analyst,2017-05-17,Good,Resigned,vickiehoffman@salas.net,3394.09,2021-11-06,Voluntary
+87789904,James,Campbell,IT,IT Support,2020-06-21,Good,On Leave,cgibbs@carpenter.org,2534.22,,
+71260884,Stephanie,Mccormick,Risk Management,Chief Risk Officer,2016-07-12,Satisfactory,On Leave,ewalters@david.org,2800.7,,
+64882109,Julia,Fuller,Retail Banking,Teller,2013-01-19,Good,Resigned,bvillanueva@morales-martinez.com,5063.56,2015-10-11,Involuntary
+18141214,Elizabeth,Brandt,Finance,Finance Manager,2017-09-01,Excellent,On Leave,garzaphilip@ramos.com,4284.03,,
+87951998,Aaron,Perez,Compliance,Compliance Officer,2018-06-23,Satisfactory,Active,shawnpace@jones.com,3991.16,,
+84616814,Norma,Hughes,IT,Systems Analyst,2017-12-05,Satisfactory,Resigned,halediana@barnes-mccarty.info,4770.47,2022-01-26,Voluntary
+89848074,Ashley,Dixon,HR,HR Assistant,2014-03-17,Satisfactory,On Leave,parkerlaura@gonzalez.com,1894.12,,
+34254042,Jason,Hale,Risk Management,Chief Risk Officer,2017-11-24,Good,On Leave,ogoodwin@obrien-valenzuela.com,1007.82,,
+9874961,Cheryl,Beasley,Retail Banking,Teller,2013-02-05,Needs Improvement,Active,delacruzpedro@frazier.org,4016.53,,
+70301380,Kelsey,Carter,Compliance,Compliance Manager,2019-07-08,Needs Improvement,Active,williamwilliams@newman-hall.com,1417.41,,
+9037618,Amy,Mayer,Operations,Operations Manager,2021-05-15,Satisfactory,Resigned,shelleymartinez@dunn-sutton.org,2803.59,2023-10-30,Involuntary
+49629309,Joshua,Torres,Risk Management,Chief Risk Officer,2023-11-06,Satisfactory,On Leave,williamsangela@johnson-mills.com,2621.93,,
+35757023,Joseph,Cordova,IT,Systems Analyst,2016-10-25,Excellent,On Leave,bmejia@gomez-johnson.org,2746.65,,
+78510173,Bryan,Lopez,IT,IT Support,2014-10-23,Needs Improvement,Resigned,fhardy@stewart-riley.com,2557.64,2018-11-24,Voluntary
+27716526,Denise,Medina,Corporate Banking,Account Manager,2021-02-02,Needs Improvement,On Leave,ramosallison@jackson.org,3942.82,,
+34659199,Samantha,Jones,HR,HR Manager,2018-10-12,Needs Improvement,On Leave,patrick95@reyes.net,3553.97,,
+90431883,Aaron,Page,Investment Banking,Analyst,2016-03-08,Good,Resigned,denisesmith@hernandez-patterson.com,5214.3,2020-12-15,Involuntary
+86656825,Lauren,Barnes,Finance,Financial Analyst,2022-06-06,Excellent,Resigned,brian17@jones-mcmillan.biz,4782.34,2027-02-13,Involuntary
+33201535,Christina,Gregory,Finance,Financial Analyst,2018-10-16,Satisfactory,On Leave,fhamilton@swanson.org,5315.6,,
+47284609,Heather,Sanders,Investment Banking,Analyst,2013-11-26,Satisfactory,On Leave,xnorton@hale.org,2567.94,,
+68422523,Brittney,Davis,Risk Management,Risk Analyst,2022-12-21,Excellent,Active,jtaylor@duncan.com,1638.62,,
+30992818,Robert,Johnson,HR,HR Manager,2025-06-03,Needs Improvement,Resigned,andrew85@owens.net,3645.26,2030-01-02,Involuntary
+72424698,David,Schwartz,Retail Banking,Teller,2016-11-25,Satisfactory,Resigned,tamaranichols@armstrong.com,4839.56,2018-09-28,Voluntary
+97895558,Stephen,Morgan,IT,IT Support,2011-06-11,Satisfactory,Resigned,floresfrank@sparks.com,2446.63,2014-10-25,Involuntary
+34196090,Ross,Poole,Operations,Operations Analyst,2019-06-14,Satisfactory,On Leave,rmartin@kirby.info,1832.06,,
+78654068,Deanna,Sanders,HR,HR Manager,2011-02-10,Needs Improvement,Active,scottsanders@herrera.info,2396.32,,
+95111872,John,Ford,Risk Management,Chief Risk Officer,2011-08-28,Needs Improvement,Resigned,cjefferson@chen.biz,2206.29,2016-05-04,Voluntary
+99849566,Dakota,Butler,Retail Banking,Branch Manager,2011-12-21,Needs Improvement,Active,vbennett@rodriguez.com,1778.1,,
+59629795,Christine,George,Retail Banking,Branch Manager,2019-01-03,Excellent,Resigned,stephen50@murray.com,3095.28,2019-07-27,Involuntary
+44906450,Patricia,Faulkner,Compliance,Compliance Officer,2023-11-19,Good,Resigned,margaret91@ball.com,2672.91,2025-01-13,Voluntary
+34033067,Rachael,Silva,Operations,Operations Manager,2024-12-03,Good,Resigned,melissa09@sparks.org,1630.14,2026-05-15,Involuntary
+85177505,Paul,Ortiz,Investment Banking,Analyst,2020-02-24,Needs Improvement,Active,noah84@vargas.info,2350.5,,
+95764535,Sean,Daniels,Compliance,AML Analyst,2025-07-01,Satisfactory,On Leave,ywood@robinson-tucker.com,4635.59,,
+28009887,Joseph,Oconnor,Compliance,AML Analyst,2021-09-30,Satisfactory,Active,valdezdavid@lopez-hammond.com,2341.55,,
+24748148,Jasmine,Wang,Risk Management,Risk Analyst,2020-09-16,Excellent,Active,ashley29@goodman.com,1768.88,,
+67303335,Richard,Parsons,HR,HR Manager,2023-07-29,Needs Improvement,Resigned,daviskristine@hernandez-brown.com,3252.77,2025-07-14,Involuntary
+82058173,Molly,Wood,Compliance,Compliance Officer,2024-01-08,Satisfactory,Resigned,amarsh@rosales.com,2713.47,2028-09-25,Involuntary
+95574431,Jacob,Jackson,Risk Management,Risk Analyst,2013-01-25,Good,Resigned,thomasdenise@taylor.com,4669.37,2017-09-22,Voluntary
+14041310,Robert,Lara,Operations,Operations Analyst,2010-10-24,Good,Resigned,fwells@castro.biz,1874.74,2014-12-25,Involuntary
+25761900,Diana,Clark,Retail Banking,Teller,2020-02-03,Needs Improvement,Active,allison10@bolton-cisneros.com,1419.04,,
+96178577,Sarah,Edwards,Investment Banking,Vice President,2025-08-09,Needs Improvement,On Leave,agordon@dodson-gonzalez.org,3449.84,,
+22938046,Kevin,Moore,Compliance,Compliance Manager,2021-12-03,Satisfactory,Resigned,toddfernandez@cole.com,3677.26,2023-07-31,Involuntary
+1313697,Andrew,Sparks,Risk Management,Risk Analyst,2011-06-12,Good,On Leave,pnunez@anderson.org,5453.66,,
+77325983,Michael,Norris,HR,HR Assistant,2018-07-07,Needs Improvement,Active,pcastro@swanson.net,2666.35,,
+47498389,Elizabeth,Perry,IT,IT Manager,2014-01-03,Excellent,Active,mccoyjames@mckee.com,1460.86,,
+54683099,Michelle,Reid,IT,Systems Analyst,2023-12-11,Good,Active,sphillips@palmer.info,3871.7,,
+34950418,Joshua,Valenzuela,Risk Management,Chief Risk Officer,2020-01-11,Needs Improvement,Resigned,petersonmelissa@francis.com,1149.63,2021-10-11,Voluntary
+62358200,Justin,Campbell,HR,HR Manager,2015-01-21,Needs Improvement,On Leave,ahuff@cannon-williams.com,5152.58,,
+19918068,Travis,Garcia,IT,IT Manager,2021-05-11,Needs Improvement,On Leave,maryedwards@camacho-west.com,4241.86,,
+14885655,Monica,Wiggins,IT,Systems Analyst,2021-09-03,Excellent,Active,april31@clark.com,3957.24,,
+4170280,Mark,Stanley,Finance,Financial Analyst,2015-04-28,Needs Improvement,Resigned,jacobhill@campbell.info,2435.6,2019-06-22,Voluntary
+99152321,Amanda,Myers,Operations,Process Improvement Lead,2010-11-25,Excellent,Active,fjones@fisher.com,5427.25,,
+23501706,Michael,Roberson,Risk Management,Risk Manager,2013-01-22,Excellent,Active,lcampbell@mcmillan.biz,3611.07,,
+3792599,Maria,Lawrence,Finance,Accountant,2013-05-08,Needs Improvement,Resigned,mark42@hampton-phelps.com,5458.22,2017-03-13,Involuntary
+55261074,Sandra,Rivera,Risk Management,Risk Analyst,2017-11-30,Satisfactory,Active,hwalker@hicks-li.com,4547.56,,
+5234936,Suzanne,Anderson,HR,Recruiter,2023-10-14,Excellent,Active,jacqueline06@odom.com,4278.56,,
+92182530,Paul,Hayes,Finance,Accountant,2011-08-27,Needs Improvement,Resigned,reyessharon@hill.org,4514.77,2013-11-23,Voluntary
+41016053,Wesley,Williams,Corporate Banking,Relationship Manager,2019-03-10,Satisfactory,Resigned,brooketownsend@waters-ramos.com,1283.52,2020-10-03,Involuntary
+21152726,Jose,Riley,Risk Management,Risk Manager,2013-06-02,Satisfactory,Resigned,garciamichael@foley.com,4651.33,2017-03-15,Voluntary
+74977659,Rebecca,Evans,Investment Banking,Analyst,2025-02-20,Needs Improvement,Resigned,abigailpatel@hardy-joseph.com,1541.07,2025-08-12,Voluntary
