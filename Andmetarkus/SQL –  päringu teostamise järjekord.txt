@@ -1,0 +1,9 @@
+1. FROM/JOIN - Defineerib, milliseid tabeleid kasutatakse.
+2. WHERE - Filtreerib välja andmeread, mis ei vasta tingimustele.
+3. GROUP BY - Grupeerib andmeread.
+4. HAVING - Filtreerib välja grupeeritud andmeread, mis ei vasta tingimustele.
+5. SELECT - Valib tulbad, mida näidata.
+6. ORDER -  BY Sorteerib valitud andmeread.
+7. LIMIT - Jätab alles ainult täpsustatud arvu ridu.
+
+Teostamise järjekord muutub oluliseks suuremate päringute puhul. Mida varasemas sammus saad päringu tulemusi piirata, seda optimaalsem (kiirem) on päringu teostus.
