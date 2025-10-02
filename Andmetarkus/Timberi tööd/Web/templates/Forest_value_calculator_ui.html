@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="et">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puiduhinna kalkulaator</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Optional: your own CSS in static/app.css
+    <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+    -->
+</head>
+
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
+    <div class="container bg-white rounded-2xl shadow-xl p-8 space-y-8" style="max-width: 800px;">
+        <div class="text-center">
+            <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-2">Puiduhinna kalkulaator</h1>
+            <p class="text-gray-500">Sisestage andmed või laadige failid ja vajutage "Arvuta".</p>
+        </div>
+
+        <!-- Costs Section -->
+        <div class="bg-gray-50 p-6 rounded-lg">
+            <h2 class="text-xl font-semibold text-gray-700 mb-4">Kulude väärtused</h2>
+            <div class="space-y-4">
+                <div class="flex items-center space-x-4">
+                    <label for="komplekt" class="flex-1">Kompleksteenus (€/tm):</label>
+                    <input type="number" id="komplekt" value="15" min="0"
+                        class="flex-1 p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="flex items-center space-x-4">
+                    <label for="transport" class="flex-1">Transport (€/tm):</label>
+                    <input type="number" id="transport" value="6" min="0"
+                        class="flex-1 p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="flex items-center space-x-4">
+                    <label for="alghind" class="flex-1">Alghinna (%):</label>
+                    <input type="number" id="alghind" value="10" min="0"
+                        class="flex-1 p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+            </div>
+        </div>
+
+        <!-- Wood Prices and File Uploads Section -->
+        <div class="bg-gray-50 p-6 rounded-lg">
+            <h2 class="text-xl font-semibold text-gray-700 mb-4">Puidu hinnad ja andmefailid</h2>
+            <p class="text-gray-500 mb-4">Sisestage puidu hinnad käsitsi või laadige üles Exceli fail.</p>
+            <div class="grid gap-4" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+                <div class="space-y-2">
+                    <label for="ma_palk">Ma palk:</label>
+                    <input type="number" id="ma_palk" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="ku_palk">Ku palk:</label>
+                    <input type="number" id="ku_palk" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="ks_palk">Ks palk/pakk:</label>
+                    <input type="number" id="ks_palk" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="lv_palk">Lv palk:</label>
+                    <input type="number" id="lv_palk" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="ma_peenpalk">Ma peenpalk:</label>
+                    <input type="number" id="ma_peenpalk" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="ku_peenpalk">Ku peenpalk:</label>
+                    <input type="number" id="ku_peenpalk" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="ma_paberipuit">Ma paberipuit:</label>
+                    <input type="number" id="ma_paberipuit" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="ku_paberipuit">Ku paberipuit:</label>
+                    <input type="number" id="ku_paberipuit" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="ks_paberipuit">Ks paberipuit:</label>
+                    <input type="number" id="ks_paberipuit" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="hb_paberipuit">Hb paberipuit:</label>
+                    <input type="number" id="hb_paberipuit" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="kutt">Küttepuit:</label>
+                    <input type="number" id="kutt" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="space-y-2">
+                    <label for="jaatmed">Jäätmed:</label>
+                    <input type="number" id="jaatmed" value="0" min="0"
+                        class="w-full p-2 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+            </div>
+
+            <div class="mt-6 space-y-4">
+                <div class="flex flex-col space-y-2">
+                    <label for="xlsx-upload" class="font-semibold text-gray-700">Laadi üles hinnakiri (.xlsx):</label>
+                    <input type="file" id="xlsx-upload" accept=".xlsx" class="p-2 border border-gray-300 rounded-lg">
+                </div>
+                <div class="flex flex-col space-y-2">
+                    <label for="json-upload" class="font-semibold text-gray-700">Laadi üles katastri JSON
+                        (.json):</label>
+                    <input type="file" id="json-upload" accept=".json" class="p-2 border border-gray-300 rounded-lg">
+                </div>
+            </div>
+        </div>
+
+        <!-- Calculate Button -->
+        <button id="calculate-btn"
+            class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-4 rounded-lg shadow-md transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50">
+            Arvuta
+        </button>
+
+        <!-- Results Section -->
+        <div id="results" class="bg-gray-50 p-6 rounded-lg border border-gray-300 shadow-inner mt-6">
+            <h2 class="text-xl font-semibold text-gray-700 mb-2">Tulemused:</h2>
+            <div id="results-text" class="prose text-gray-600">Ootan andmete sisestamist ja arvutamist...</div>
+        </div>
+    </div>
+
+    <!-- Your JS from static/ via url_for -->
+    <script defer src="{{ url_for('static', filename='UI.js') }}"></script>
+</body>
+
+</html>
