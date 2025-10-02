@@ -1,0 +1,1201 @@
+{
+  "id": "31701:003:0012",
+  "cadastral_id": "31701:003:0012",
+  "total_area_ha": 9.86,
+  "forest_area_ha": 9.86,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          24.829656459,
+          59.208212317
+        ],
+        [
+          24.842048165,
+          59.210172585
+        ],
+        [
+          24.842226974,
+          59.208837979
+        ],
+        [
+          24.830749256,
+          59.207170705
+        ],
+        [
+          24.830608542,
+          59.207150322
+        ],
+        [
+          24.830543015,
+          59.207140773
+        ],
+        [
+          24.82959665,
+          59.208193125
+        ],
+        [
+          24.829656459,
+          59.208212317
+        ]
+      ]
+    ]
+  },
+  "total_volume_m3": 917,
+  "cells_total_volume_m3": 927,
+  "pine_total_volume_m3": 225,
+  "spruce_total_volume_m3": 393,
+  "birch_total_volume_m3": 197,
+  "other_deciduous_total_volume_m3": 113,
+  "timber_volume_m3": 455,
+  "pine_timber_volume_m3": 123,
+  "spruce_timber_volume_m3": 192,
+  "birch_timber_volume_m3": 91,
+  "other_deciduous_timber_volume_m3": 49,
+  "fiber_volume_m3": 242,
+  "pine_fiber_volume_m3": 55,
+  "spruce_fiber_volume_m3": 103,
+  "birch_fiber_volume_m3": 53,
+  "other_deciduous_fiber_volume_m3": 31,
+  "stems": 10885,
+  "pine_stems": 385,
+  "spruce_stems": 2175,
+  "birch_stems": 3843,
+  "other_deciduous_stems": 4482,
+  "extra_volume": 10,
+  "stands": [
+    {
+      "id": -1181016,
+      "kvartal_id": "0",
+      "stand_number": "0",
+      "total_area_ha": 0.17,
+      "measurement_date": null,
+      "main_species": "spruce",
+      "total_volume_m3_ha": 120,
+      "pine_total_volume_m3_ha": 0,
+      "spruce_total_volume_m3_ha": 107,
+      "birch_total_volume_m3_ha": 13,
+      "other_deciduous_total_volume_m3_ha": 0,
+      "timber_volume_m3_ha": 56,
+      "pine_timber_volume_m3_ha": 0,
+      "spruce_timber_volume_m3_ha": 50,
+      "birch_timber_volume_m3_ha": 6,
+      "other_deciduous_timber_volume_m3_ha": 0,
+      "fiber_volume_m3_ha": 32,
+      "pine_fiber_volume_m3_ha": 0,
+      "spruce_fiber_volume_m3_ha": 29,
+      "birch_fiber_volume_m3_ha": 3,
+      "other_deciduous_fiber_volume_m3_ha": 0,
+      "basal_area_m2_ha": 15.56,
+      "pine_basal_area_m2_ha": 0.01,
+      "spruce_basal_area_m2_ha": 13.72,
+      "birch_basal_area_m2_ha": 1.83,
+      "other_deciduous_basal_area_m2_ha": 0,
+      "bam_height_m": 13.8,
+      "pine_bam_height_m": 9.2,
+      "spruce_bam_height_m": 13.7,
+      "birch_bam_height_m": 14.8,
+      "other_deciduous_bam_height_m": 15.9,
+      "bam_dbh_cm": 17,
+      "pine_bam_dbh_cm": 12,
+      "spruce_bam_dbh_cm": 17,
+      "birch_bam_dbh_cm": 15,
+      "other_deciduous_bam_dbh_cm": 18,
+      "stems_1_ha": 721.87,
+      "pine_stems_1_ha": 1.42,
+      "spruce_stems_1_ha": 613.65,
+      "birch_stems_1_ha": 106.79,
+      "other_deciduous_stems_1_ha": 0.01,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.829656459,
+              59.208212317
+            ],
+            [
+              24.829806145,
+              59.208236005
+            ],
+            [
+              24.829806145,
+              59.208236005
+            ],
+            [
+              24.830579734,
+              59.207378968
+            ],
+            [
+              24.830749256,
+              59.207170705
+            ],
+            [
+              24.830749256,
+              59.207170705
+            ],
+            [
+              24.830608542,
+              59.207150322
+            ],
+            [
+              24.830543015,
+              59.207140773
+            ],
+            [
+              24.82959665,
+              59.208193125
+            ],
+            [
+              24.829656459,
+              59.208212317
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 11864333,
+      "kvartal_id": "0",
+      "stand_number": "1",
+      "total_area_ha": 0.98,
+      "measurement_date": "2025-05-14T00:00:00.000Z",
+      "main_species": "spruce",
+      "total_volume_m3_ha": 107,
+      "pine_total_volume_m3_ha": 0,
+      "spruce_total_volume_m3_ha": 89,
+      "birch_total_volume_m3_ha": 14,
+      "other_deciduous_total_volume_m3_ha": 4,
+      "timber_volume_m3_ha": 50,
+      "pine_timber_volume_m3_ha": 0,
+      "spruce_timber_volume_m3_ha": 42,
+      "birch_timber_volume_m3_ha": 6,
+      "other_deciduous_timber_volume_m3_ha": 2,
+      "fiber_volume_m3_ha": 29,
+      "pine_fiber_volume_m3_ha": 0,
+      "spruce_fiber_volume_m3_ha": 24,
+      "birch_fiber_volume_m3_ha": 4,
+      "other_deciduous_fiber_volume_m3_ha": 1,
+      "basal_area_m2_ha": 14.34,
+      "pine_basal_area_m2_ha": 0,
+      "spruce_basal_area_m2_ha": 11.47,
+      "birch_basal_area_m2_ha": 2.15,
+      "other_deciduous_basal_area_m2_ha": 0.72,
+      "bam_height_m": 13.6,
+      "pine_bam_height_m": 0,
+      "spruce_bam_height_m": 13.7,
+      "birch_bam_height_m": 13.2,
+      "other_deciduous_bam_height_m": 14.6,
+      "bam_dbh_cm": 17,
+      "pine_bam_dbh_cm": 0,
+      "spruce_bam_dbh_cm": 17,
+      "birch_bam_dbh_cm": 16,
+      "other_deciduous_bam_dbh_cm": 16,
+      "stems_1_ha": 686.02,
+      "pine_stems_1_ha": 0,
+      "spruce_stems_1_ha": 531.09,
+      "birch_stems_1_ha": 117.41,
+      "other_deciduous_stems_1_ha": 37.52,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.831353794,
+              59.208064962
+            ],
+            [
+              24.83168842,
+              59.207911193
+            ],
+            [
+              24.831871189,
+              59.207681208
+            ],
+            [
+              24.832005218,
+              59.20735347
+            ],
+            [
+              24.830749256,
+              59.207170705
+            ],
+            [
+              24.830579734,
+              59.207378968
+            ],
+            [
+              24.829806145,
+              59.208236005
+            ],
+            [
+              24.830851038,
+              59.208401351
+            ],
+            [
+              24.831353794,
+              59.208064962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 11864337,
+      "kvartal_id": "0",
+      "stand_number": "2",
+      "total_area_ha": 0.29,
+      "measurement_date": "2025-05-14T00:00:00.000Z",
+      "main_species": "spruce",
+      "total_volume_m3_ha": 200,
+      "pine_total_volume_m3_ha": 10,
+      "spruce_total_volume_m3_ha": 172,
+      "birch_total_volume_m3_ha": 9,
+      "other_deciduous_total_volume_m3_ha": 9,
+      "timber_volume_m3_ha": 101,
+      "pine_timber_volume_m3_ha": 5,
+      "spruce_timber_volume_m3_ha": 87,
+      "birch_timber_volume_m3_ha": 4,
+      "other_deciduous_timber_volume_m3_ha": 5,
+      "fiber_volume_m3_ha": 51,
+      "pine_fiber_volume_m3_ha": 2,
+      "spruce_fiber_volume_m3_ha": 44,
+      "birch_fiber_volume_m3_ha": 2,
+      "other_deciduous_fiber_volume_m3_ha": 2,
+      "basal_area_m2_ha": 20.97,
+      "pine_basal_area_m2_ha": 1.05,
+      "spruce_basal_area_m2_ha": 17.83,
+      "birch_basal_area_m2_ha": 1.05,
+      "other_deciduous_basal_area_m2_ha": 1.05,
+      "bam_height_m": 18.9,
+      "pine_bam_height_m": 19.5,
+      "spruce_bam_height_m": 18.9,
+      "birch_bam_height_m": 17.9,
+      "other_deciduous_bam_height_m": 20.2,
+      "bam_dbh_cm": 23,
+      "pine_bam_dbh_cm": 28,
+      "spruce_bam_dbh_cm": 22,
+      "birch_bam_dbh_cm": 19,
+      "other_deciduous_bam_dbh_cm": 25,
+      "stems_1_ha": 532.57,
+      "pine_stems_1_ha": 17.83,
+      "spruce_stems_1_ha": 453.51,
+      "birch_stems_1_ha": 38.84,
+      "other_deciduous_stems_1_ha": 22.38,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.83160081,
+              59.208361962
+            ],
+            [
+              24.831748623,
+              59.208124766
+            ],
+            [
+              24.832391559,
+              59.207409341
+            ],
+            [
+              24.832152436,
+              59.207374596
+            ],
+            [
+              24.832005218,
+              59.20735347
+            ],
+            [
+              24.831871189,
+              59.207681208
+            ],
+            [
+              24.83168842,
+              59.207911193
+            ],
+            [
+              24.831353794,
+              59.208064962
+            ],
+            [
+              24.830851038,
+              59.208401351
+            ],
+            [
+              24.830932593,
+              59.208414256
+            ],
+            [
+              24.831555182,
+              59.208512314
+            ],
+            [
+              24.83160081,
+              59.208361962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 11864335,
+      "kvartal_id": "0",
+      "stand_number": "3",
+      "total_area_ha": 0.62,
+      "measurement_date": "2025-05-14T00:00:00.000Z",
+      "main_species": "birch",
+      "total_volume_m3_ha": 193,
+      "pine_total_volume_m3_ha": 57,
+      "spruce_total_volume_m3_ha": 45,
+      "birch_total_volume_m3_ha": 91,
+      "other_deciduous_total_volume_m3_ha": 0,
+      "timber_volume_m3_ha": 95,
+      "pine_timber_volume_m3_ha": 31,
+      "spruce_timber_volume_m3_ha": 23,
+      "birch_timber_volume_m3_ha": 42,
+      "other_deciduous_timber_volume_m3_ha": 0,
+      "fiber_volume_m3_ha": 50,
+      "pine_fiber_volume_m3_ha": 14,
+      "spruce_fiber_volume_m3_ha": 12,
+      "birch_fiber_volume_m3_ha": 25,
+      "other_deciduous_fiber_volume_m3_ha": 0,
+      "basal_area_m2_ha": 22.32,
+      "pine_basal_area_m2_ha": 6.25,
+      "spruce_basal_area_m2_ha": 4.91,
+      "birch_basal_area_m2_ha": 11.16,
+      "other_deciduous_basal_area_m2_ha": 0,
+      "bam_height_m": 18,
+      "pine_bam_height_m": 18.9,
+      "spruce_bam_height_m": 17.5,
+      "birch_bam_height_m": 17.6,
+      "other_deciduous_bam_height_m": 0,
+      "bam_dbh_cm": 21,
+      "pine_bam_dbh_cm": 28,
+      "spruce_bam_dbh_cm": 22,
+      "birch_bam_dbh_cm": 17,
+      "other_deciduous_bam_dbh_cm": 0,
+      "stems_1_ha": 757.36,
+      "pine_stems_1_ha": 103.78,
+      "spruce_stems_1_ha": 128,
+      "birch_stems_1_ha": 525.58,
+      "other_deciduous_stems_1_ha": 0,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.832564716,
+              59.208672505
+            ],
+            [
+              24.8328505,
+              59.207476076
+            ],
+            [
+              24.832800651,
+              59.20746878
+            ],
+            [
+              24.832391559,
+              59.207409341
+            ],
+            [
+              24.831748623,
+              59.208124766
+            ],
+            [
+              24.83160081,
+              59.208361962
+            ],
+            [
+              24.831555182,
+              59.208512314
+            ],
+            [
+              24.832449995,
+              59.208654354
+            ],
+            [
+              24.832564716,
+              59.208672505
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 11864334,
+      "kvartal_id": "0",
+      "stand_number": "4",
+      "total_area_ha": 1.11,
+      "measurement_date": "2025-05-14T00:00:00.000Z",
+      "main_species": "pine",
+      "total_volume_m3_ha": 231,
+      "pine_total_volume_m3_ha": 141,
+      "spruce_total_volume_m3_ha": 41,
+      "birch_total_volume_m3_ha": 49,
+      "other_deciduous_total_volume_m3_ha": 0,
+      "timber_volume_m3_ha": 122,
+      "pine_timber_volume_m3_ha": 78,
+      "spruce_timber_volume_m3_ha": 21,
+      "birch_timber_volume_m3_ha": 24,
+      "other_deciduous_timber_volume_m3_ha": 0,
+      "fiber_volume_m3_ha": 58,
+      "pine_fiber_volume_m3_ha": 34,
+      "spruce_fiber_volume_m3_ha": 10,
+      "birch_fiber_volume_m3_ha": 13,
+      "other_deciduous_fiber_volume_m3_ha": 0,
+      "basal_area_m2_ha": 24.34,
+      "pine_basal_area_m2_ha": 14.6,
+      "spruce_basal_area_m2_ha": 4.14,
+      "birch_basal_area_m2_ha": 5.6,
+      "other_deciduous_basal_area_m2_ha": 0,
+      "bam_height_m": 19.9,
+      "pine_bam_height_m": 20.3,
+      "spruce_bam_height_m": 19.7,
+      "birch_bam_height_m": 19.1,
+      "other_deciduous_bam_height_m": 0,
+      "bam_dbh_cm": 26,
+      "pine_bam_dbh_cm": 29,
+      "spruce_bam_dbh_cm": 25,
+      "birch_bam_dbh_cm": 19,
+      "other_deciduous_bam_dbh_cm": 0,
+      "stems_1_ha": 522.71,
+      "pine_stems_1_ha": 230.04,
+      "spruce_stems_1_ha": 88.06,
+      "birch_stems_1_ha": 204.61,
+      "other_deciduous_stems_1_ha": 0,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.834201874,
+              59.20792729
+            ],
+            [
+              24.834888516,
+              59.207943764
+            ],
+            [
+              24.835060177,
+              59.20811952
+            ],
+            [
+              24.835296218,
+              59.208116773
+            ],
+            [
+              24.835462511,
+              59.208072834
+            ],
+            [
+              24.835505434,
+              59.208031648
+            ],
+            [
+              24.835359922,
+              59.207840653
+            ],
+            [
+              24.8328505,
+              59.207476076
+            ],
+            [
+              24.832564716,
+              59.208672505
+            ],
+            [
+              24.832916667,
+              59.208728191
+            ],
+            [
+              24.83294124,
+              59.208619315
+            ],
+            [
+              24.833182635,
+              59.208498491
+            ],
+            [
+              24.833590332,
+              59.208479267
+            ],
+            [
+              24.833643974,
+              59.208380404
+            ],
+            [
+              24.833810264,
+              59.208383151
+            ],
+            [
+              24.833998019,
+              59.208468283
+            ],
+            [
+              24.834180419,
+              59.208328226
+            ],
+            [
+              24.834454006,
+              59.208160717
+            ],
+            [
+              24.834309156,
+              59.208064602
+            ],
+            [
+              24.834201874,
+              59.20792729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 11864339,
+      "kvartal_id": "0",
+      "stand_number": "5",
+      "total_area_ha": 2.73,
+      "measurement_date": "2025-05-14T00:00:00.000Z",
+      "main_species": "birch",
+      "total_volume_m3_ha": 19,
+      "pine_total_volume_m3_ha": 0,
+      "spruce_total_volume_m3_ha": 2,
+      "birch_total_volume_m3_ha": 10,
+      "other_deciduous_total_volume_m3_ha": 7,
+      "timber_volume_m3_ha": 8,
+      "pine_timber_volume_m3_ha": 0,
+      "spruce_timber_volume_m3_ha": 1,
+      "birch_timber_volume_m3_ha": 4,
+      "other_deciduous_timber_volume_m3_ha": 3,
+      "fiber_volume_m3_ha": 5,
+      "pine_fiber_volume_m3_ha": 0,
+      "spruce_fiber_volume_m3_ha": 1,
+      "birch_fiber_volume_m3_ha": 3,
+      "other_deciduous_fiber_volume_m3_ha": 2,
+      "basal_area_m2_ha": 4.33,
+      "pine_basal_area_m2_ha": 0,
+      "spruce_basal_area_m2_ha": 0.43,
+      "birch_basal_area_m2_ha": 2.16,
+      "other_deciduous_basal_area_m2_ha": 1.73,
+      "bam_height_m": 8.6,
+      "pine_bam_height_m": 0,
+      "spruce_bam_height_m": 7.3,
+      "birch_bam_height_m": 8.5,
+      "other_deciduous_bam_height_m": 9.1,
+      "bam_dbh_cm": 11,
+      "pine_bam_dbh_cm": 0,
+      "spruce_bam_dbh_cm": 9,
+      "birch_bam_dbh_cm": 10,
+      "other_deciduous_bam_dbh_cm": 11,
+      "stems_1_ha": 1400.76,
+      "pine_stems_1_ha": 0,
+      "spruce_stems_1_ha": 124.48,
+      "birch_stems_1_ha": 777.61,
+      "other_deciduous_stems_1_ha": 498.68,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.837694101,
+              59.208611082
+            ],
+            [
+              24.837495627,
+              59.208567141
+            ],
+            [
+              24.837184488,
+              59.20863854
+            ],
+            [
+              24.836878714,
+              59.20862756
+            ],
+            [
+              24.836739245,
+              59.208608333
+            ],
+            [
+              24.836524662,
+              59.208449059
+            ],
+            [
+              24.836717788,
+              59.208289781
+            ],
+            [
+              24.837163304,
+              59.208102619
+            ],
+            [
+              24.835359922,
+              59.207840653
+            ],
+            [
+              24.835505434,
+              59.208031648
+            ],
+            [
+              24.835462511,
+              59.208072834
+            ],
+            [
+              24.835296218,
+              59.208116773
+            ],
+            [
+              24.835060177,
+              59.20811952
+            ],
+            [
+              24.834888516,
+              59.207943764
+            ],
+            [
+              24.834201874,
+              59.20792729
+            ],
+            [
+              24.834309156,
+              59.208064602
+            ],
+            [
+              24.834454006,
+              59.208160717
+            ],
+            [
+              24.834180419,
+              59.208328226
+            ],
+            [
+              24.833998019,
+              59.208468283
+            ],
+            [
+              24.833810264,
+              59.208383151
+            ],
+            [
+              24.833643974,
+              59.208380404
+            ],
+            [
+              24.833590332,
+              59.208479267
+            ],
+            [
+              24.833182635,
+              59.208498491
+            ],
+            [
+              24.83294124,
+              59.208619315
+            ],
+            [
+              24.832916667,
+              59.208728191
+            ],
+            [
+              24.837535532,
+              59.209458884
+            ],
+            [
+              24.837716821,
+              59.209180255
+            ],
+            [
+              24.837822207,
+              59.20910529
+            ],
+            [
+              24.838013513,
+              59.209108526
+            ],
+            [
+              24.83831128,
+              59.209200219
+            ],
+            [
+              24.838150089,
+              59.208924139
+            ],
+            [
+              24.837897959,
+              59.208800561
+            ],
+            [
+              24.837892599,
+              59.208726421
+            ],
+            [
+              24.837694101,
+              59.208611082
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 11864338,
+      "kvartal_id": "0",
+      "stand_number": "6",
+      "total_area_ha": 0.3,
+      "measurement_date": "2025-05-14T00:00:00.000Z",
+      "main_species": "other_deciduous",
+      "total_volume_m3_ha": 114,
+      "pine_total_volume_m3_ha": 0,
+      "spruce_total_volume_m3_ha": 29,
+      "birch_total_volume_m3_ha": 0,
+      "other_deciduous_total_volume_m3_ha": 85,
+      "timber_volume_m3_ha": 53,
+      "pine_timber_volume_m3_ha": 0,
+      "spruce_timber_volume_m3_ha": 14,
+      "birch_timber_volume_m3_ha": 0,
+      "other_deciduous_timber_volume_m3_ha": 40,
+      "fiber_volume_m3_ha": 30,
+      "pine_fiber_volume_m3_ha": 0,
+      "spruce_fiber_volume_m3_ha": 8,
+      "birch_fiber_volume_m3_ha": 0,
+      "other_deciduous_fiber_volume_m3_ha": 23,
+      "basal_area_m2_ha": 18.71,
+      "pine_basal_area_m2_ha": 0,
+      "spruce_basal_area_m2_ha": 3.74,
+      "birch_basal_area_m2_ha": 0,
+      "other_deciduous_basal_area_m2_ha": 14.97,
+      "bam_height_m": 13.3,
+      "pine_bam_height_m": 0,
+      "spruce_bam_height_m": 13.4,
+      "birch_bam_height_m": 0,
+      "other_deciduous_bam_height_m": 13.2,
+      "bam_dbh_cm": 17,
+      "pine_bam_dbh_cm": 0,
+      "spruce_bam_dbh_cm": 17,
+      "birch_bam_dbh_cm": 0,
+      "other_deciduous_bam_dbh_cm": 17,
+      "stems_1_ha": 789.75,
+      "pine_stems_1_ha": 0,
+      "spruce_stems_1_ha": 159.52,
+      "birch_stems_1_ha": 0,
+      "other_deciduous_stems_1_ha": 630.23,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.839034302,
+              59.209382804
+            ],
+            [
+              24.83831128,
+              59.209200219
+            ],
+            [
+              24.838013513,
+              59.209108526
+            ],
+            [
+              24.837822207,
+              59.20910529
+            ],
+            [
+              24.837716821,
+              59.209180255
+            ],
+            [
+              24.837535532,
+              59.209458884
+            ],
+            [
+              24.838315869,
+              59.209582313
+            ],
+            [
+              24.838803455,
+              59.209659163
+            ],
+            [
+              24.839034302,
+              59.209382804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 11864340,
+      "kvartal_id": "0",
+      "stand_number": "7",
+      "total_area_ha": 1.16,
+      "measurement_date": "2025-05-14T00:00:00.000Z",
+      "main_species": "spruce",
+      "total_volume_m3_ha": 180,
+      "pine_total_volume_m3_ha": 26,
+      "spruce_total_volume_m3_ha": 129,
+      "birch_total_volume_m3_ha": 24,
+      "other_deciduous_total_volume_m3_ha": 0,
+      "timber_volume_m3_ha": 90,
+      "pine_timber_volume_m3_ha": 14,
+      "spruce_timber_volume_m3_ha": 64,
+      "birch_timber_volume_m3_ha": 11,
+      "other_deciduous_timber_volume_m3_ha": 0,
+      "fiber_volume_m3_ha": 46,
+      "pine_fiber_volume_m3_ha": 7,
+      "spruce_fiber_volume_m3_ha": 33,
+      "birch_fiber_volume_m3_ha": 6,
+      "other_deciduous_fiber_volume_m3_ha": 0,
+      "basal_area_m2_ha": 19.38,
+      "pine_basal_area_m2_ha": 2.91,
+      "spruce_basal_area_m2_ha": 13.57,
+      "birch_basal_area_m2_ha": 2.91,
+      "other_deciduous_basal_area_m2_ha": 0,
+      "bam_height_m": 18.4,
+      "pine_bam_height_m": 18.8,
+      "spruce_bam_height_m": 18.4,
+      "birch_bam_height_m": 18,
+      "other_deciduous_bam_height_m": 0,
+      "bam_dbh_cm": 22,
+      "pine_bam_dbh_cm": 27,
+      "spruce_bam_dbh_cm": 21,
+      "birch_bam_dbh_cm": 18,
+      "other_deciduous_bam_dbh_cm": 0,
+      "stems_1_ha": 569.5,
+      "pine_stems_1_ha": 53.12,
+      "spruce_stems_1_ha": 393.8,
+      "birch_stems_1_ha": 122.58,
+      "other_deciduous_stems_1_ha": 0,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.837163304,
+              59.208102619
+            ],
+            [
+              24.836717788,
+              59.208289781
+            ],
+            [
+              24.836524662,
+              59.208449059
+            ],
+            [
+              24.836739245,
+              59.208608333
+            ],
+            [
+              24.836878714,
+              59.20862756
+            ],
+            [
+              24.837184488,
+              59.20863854
+            ],
+            [
+              24.837495627,
+              59.208567141
+            ],
+            [
+              24.837694101,
+              59.208611082
+            ],
+            [
+              24.837892599,
+              59.208726421
+            ],
+            [
+              24.837897959,
+              59.208800561
+            ],
+            [
+              24.838150089,
+              59.208924139
+            ],
+            [
+              24.83831128,
+              59.209200219
+            ],
+            [
+              24.839034302,
+              59.209382804
+            ],
+            [
+              24.839225264,
+              59.209371173
+            ],
+            [
+              24.839308941,
+              59.209357269
+            ],
+            [
+              24.839590139,
+              59.209244024
+            ],
+            [
+              24.839353659,
+              59.208933514
+            ],
+            [
+              24.839271254,
+              59.208685227
+            ],
+            [
+              24.838841221,
+              59.20834634
+            ],
+            [
+              24.837163304,
+              59.208102619
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 11864336,
+      "kvartal_id": "0",
+      "stand_number": "8",
+      "total_area_ha": 1.84,
+      "measurement_date": "2025-05-14T00:00:00.000Z",
+      "main_species": "other_deciduous",
+      "total_volume_m3_ha": 31,
+      "pine_total_volume_m3_ha": 0,
+      "spruce_total_volume_m3_ha": 4,
+      "birch_total_volume_m3_ha": 7,
+      "other_deciduous_total_volume_m3_ha": 20,
+      "timber_volume_m3_ha": 13,
+      "pine_timber_volume_m3_ha": 0,
+      "spruce_timber_volume_m3_ha": 2,
+      "birch_timber_volume_m3_ha": 3,
+      "other_deciduous_timber_volume_m3_ha": 8,
+      "fiber_volume_m3_ha": 9,
+      "pine_fiber_volume_m3_ha": 0,
+      "spruce_fiber_volume_m3_ha": 1,
+      "birch_fiber_volume_m3_ha": 2,
+      "other_deciduous_fiber_volume_m3_ha": 6,
+      "basal_area_m2_ha": 8.29,
+      "pine_basal_area_m2_ha": 0,
+      "spruce_basal_area_m2_ha": 0.83,
+      "birch_basal_area_m2_ha": 1.66,
+      "other_deciduous_basal_area_m2_ha": 5.8,
+      "bam_height_m": 7.7,
+      "pine_bam_height_m": 0,
+      "spruce_bam_height_m": 7,
+      "birch_bam_height_m": 7.4,
+      "other_deciduous_bam_height_m": 7.9,
+      "bam_dbh_cm": 9,
+      "pine_bam_dbh_cm": 0,
+      "spruce_bam_dbh_cm": 8,
+      "birch_bam_dbh_cm": 9,
+      "other_deciduous_bam_dbh_cm": 10,
+      "stems_1_ha": 1771.85,
+      "pine_stems_1_ha": 0,
+      "spruce_stems_1_ha": 243.24,
+      "birch_stems_1_ha": 426.55,
+      "other_deciduous_stems_1_ha": 1102.06,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.838841221,
+              59.20834634
+            ],
+            [
+              24.839271254,
+              59.208685227
+            ],
+            [
+              24.839353659,
+              59.208933514
+            ],
+            [
+              24.839590139,
+              59.209244024
+            ],
+            [
+              24.839308941,
+              59.209357269
+            ],
+            [
+              24.839225264,
+              59.209371173
+            ],
+            [
+              24.839034302,
+              59.209382804
+            ],
+            [
+              24.838803455,
+              59.209659163
+            ],
+            [
+              24.839571322,
+              59.20978088
+            ],
+            [
+              24.842046862,
+              59.210172378
+            ],
+            [
+              24.842133622,
+              59.209534756
+            ],
+            [
+              24.842226974,
+              59.208837979
+            ],
+            [
+              24.841910493,
+              59.208792022
+            ],
+            [
+              24.841705881,
+              59.208762582
+            ],
+            [
+              24.84185115,
+              59.208944953
+            ],
+            [
+              24.841160116,
+              59.209740637
+            ],
+            [
+              24.840801434,
+              59.209634116
+            ],
+            [
+              24.840740888,
+              59.209495593
+            ],
+            [
+              24.840848105,
+              59.209447789
+            ],
+            [
+              24.84061637,
+              59.209148563
+            ],
+            [
+              24.840246279,
+              59.208897142
+            ],
+            [
+              24.840389822,
+              59.208571363
+            ],
+            [
+              24.838841221,
+              59.20834634
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": 11864332,
+      "kvartal_id": "0",
+      "stand_number": "9",
+      "total_area_ha": 0.66,
+      "measurement_date": "2025-05-14T00:00:00.000Z",
+      "main_species": "other_deciduous",
+      "total_volume_m3_ha": 41,
+      "pine_total_volume_m3_ha": 0,
+      "spruce_total_volume_m3_ha": 0,
+      "birch_total_volume_m3_ha": 5,
+      "other_deciduous_total_volume_m3_ha": 37,
+      "timber_volume_m3_ha": 18,
+      "pine_timber_volume_m3_ha": 0,
+      "spruce_timber_volume_m3_ha": 0,
+      "birch_timber_volume_m3_ha": 2,
+      "other_deciduous_timber_volume_m3_ha": 16,
+      "fiber_volume_m3_ha": 12,
+      "pine_fiber_volume_m3_ha": 0,
+      "spruce_fiber_volume_m3_ha": 0,
+      "birch_fiber_volume_m3_ha": 1,
+      "other_deciduous_fiber_volume_m3_ha": 10,
+      "basal_area_m2_ha": 11.07,
+      "pine_basal_area_m2_ha": 0,
+      "spruce_basal_area_m2_ha": 0,
+      "birch_basal_area_m2_ha": 1.11,
+      "other_deciduous_basal_area_m2_ha": 9.96,
+      "bam_height_m": 8.4,
+      "pine_bam_height_m": 0,
+      "spruce_bam_height_m": 0,
+      "birch_bam_height_m": 8.1,
+      "other_deciduous_bam_height_m": 8.5,
+      "bam_dbh_cm": 10,
+      "pine_bam_dbh_cm": 0,
+      "spruce_bam_dbh_cm": 0,
+      "birch_bam_dbh_cm": 10,
+      "other_deciduous_bam_dbh_cm": 10,
+      "stems_1_ha": 1448.96,
+      "pine_stems_1_ha": 0,
+      "spruce_stems_1_ha": 0,
+      "birch_stems_1_ha": 157.34,
+      "other_deciduous_stems_1_ha": 1291.62,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.840740888,
+              59.209495593
+            ],
+            [
+              24.840801434,
+              59.209634116
+            ],
+            [
+              24.841160116,
+              59.209740637
+            ],
+            [
+              24.84185115,
+              59.208944953
+            ],
+            [
+              24.841705881,
+              59.208762582
+            ],
+            [
+              24.840389822,
+              59.208571363
+            ],
+            [
+              24.840246279,
+              59.208897142
+            ],
+            [
+              24.84061637,
+              59.209148563
+            ],
+            [
+              24.840848105,
+              59.209447789
+            ],
+            [
+              24.840740888,
+              59.209495593
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "cc_inventory_inference_date": "2025-08-30",
+    "forest_register_update_date": "2025-06-27",
+    "inventory_version_id": "20250830_thin",
+    "max_satellite_date": "2025-07-01",
+    "lidar_scan_date": "2022-06-07",
+    "max_measurement_date": "2025-05-14"
+  }
+}
